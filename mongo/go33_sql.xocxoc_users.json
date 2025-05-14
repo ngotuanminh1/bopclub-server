@@ -1,0 +1,1976 @@
+[{
+  "_id": {
+    "$oid": "681e8e0c06251d0438d12730"
+  },
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "uid": "681e8e0306251d0438d12720",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ba4"
+  },
+  "bet": {
+    "$numberLong": "324144000"
+  },
+  "win": {
+    "$numberLong": "98558000"
+  },
+  "lost": {
+    "$numberLong": "130646000"
+  },
+  "totall": {
+    "$numberLong": "-32088000"
+  },
+  "uid": "681e8e4fbc115135d4cb8782",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bb0"
+  },
+  "bet": {
+    "$numberLong": "272478000"
+  },
+  "win": {
+    "$numberLong": "93876000"
+  },
+  "lost": {
+    "$numberLong": "111354000"
+  },
+  "totall": {
+    "$numberLong": "-17478000"
+  },
+  "uid": "681e8e3dbc115135d4cb8750",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bbc"
+  },
+  "bet": {
+    "$numberLong": "285914000"
+  },
+  "win": {
+    "$numberLong": "102244000"
+  },
+  "lost": {
+    "$numberLong": "92820000"
+  },
+  "totall": {
+    "$numberLong": "9424000"
+  },
+  "uid": "681e8e3ebc115135d4cb8754",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bc8"
+  },
+  "bet": {
+    "$numberLong": "271808000"
+  },
+  "win": {
+    "$numberLong": "106390000"
+  },
+  "lost": {
+    "$numberLong": "105530000"
+  },
+  "totall": {
+    "$numberLong": "860000"
+  },
+  "uid": "681e8e50bc115135d4cb8784",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bd4"
+  },
+  "bet": {
+    "$numberLong": "281658000"
+  },
+  "win": {
+    "$numberLong": "119623000"
+  },
+  "lost": {
+    "$numberLong": "115456000"
+  },
+  "totall": {
+    "$numberLong": "4167000"
+  },
+  "uid": "681e8e5abc115135d4cb879e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772be0"
+  },
+  "bet": {
+    "$numberLong": "302102000"
+  },
+  "win": {
+    "$numberLong": "88614000"
+  },
+  "lost": {
+    "$numberLong": "110258000"
+  },
+  "totall": {
+    "$numberLong": "-21644000"
+  },
+  "uid": "681e8e57bc115135d4cb8796",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bec"
+  },
+  "bet": {
+    "$numberLong": "301015000"
+  },
+  "win": {
+    "$numberLong": "96596000"
+  },
+  "lost": {
+    "$numberLong": "118873000"
+  },
+  "totall": {
+    "$numberLong": "-22277000"
+  },
+  "uid": "681e8e3bbc115135d4cb874d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bf8"
+  },
+  "bet": {
+    "$numberLong": "272652000"
+  },
+  "win": {
+    "$numberLong": "99784000"
+  },
+  "lost": {
+    "$numberLong": "90994000"
+  },
+  "totall": {
+    "$numberLong": "8790000"
+  },
+  "uid": "681e8e46bc115135d4cb8769",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c04"
+  },
+  "bet": {
+    "$numberLong": "264278000"
+  },
+  "win": {
+    "$numberLong": "98336000"
+  },
+  "lost": {
+    "$numberLong": "92720000"
+  },
+  "totall": {
+    "$numberLong": "5616000"
+  },
+  "uid": "681e8e4fbc115135d4cb8781",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c10"
+  },
+  "bet": {
+    "$numberLong": "251758000"
+  },
+  "win": {
+    "$numberLong": "91326000"
+  },
+  "lost": {
+    "$numberLong": "92794000"
+  },
+  "totall": {
+    "$numberLong": "-1468000"
+  },
+  "uid": "681e8e59bc115135d4cb879d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c1c"
+  },
+  "bet": {
+    "$numberLong": "297154000"
+  },
+  "win": {
+    "$numberLong": "87014000"
+  },
+  "lost": {
+    "$numberLong": "133410000"
+  },
+  "totall": {
+    "$numberLong": "-46396000"
+  },
+  "uid": "681e8e3fbc115135d4cb8756",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c28"
+  },
+  "bet": {
+    "$numberLong": "304207000"
+  },
+  "win": {
+    "$numberLong": "80127000"
+  },
+  "lost": {
+    "$numberLong": "114753000"
+  },
+  "totall": {
+    "$numberLong": "-34626000"
+  },
+  "uid": "681e8e3abc115135d4cb874a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c34"
+  },
+  "bet": {
+    "$numberLong": "302822000"
+  },
+  "win": {
+    "$numberLong": "91068000"
+  },
+  "lost": {
+    "$numberLong": "127062000"
+  },
+  "totall": {
+    "$numberLong": "-35994000"
+  },
+  "uid": "681e8e45bc115135d4cb8766",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c40"
+  },
+  "bet": {
+    "$numberLong": "286312000"
+  },
+  "win": {
+    "$numberLong": "94538000"
+  },
+  "lost": {
+    "$numberLong": "101936000"
+  },
+  "totall": {
+    "$numberLong": "-7398000"
+  },
+  "uid": "681e8e4ebc115135d4cb8780",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c4c"
+  },
+  "bet": {
+    "$numberLong": "261582000"
+  },
+  "win": {
+    "$numberLong": "74184000"
+  },
+  "lost": {
+    "$numberLong": "102088000"
+  },
+  "totall": {
+    "$numberLong": "-27904000"
+  },
+  "uid": "681e8e59bc115135d4cb879c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c58"
+  },
+  "bet": {
+    "$numberLong": "295986000"
+  },
+  "win": {
+    "$numberLong": "119731000"
+  },
+  "lost": {
+    "$numberLong": "106782000"
+  },
+  "totall": {
+    "$numberLong": "12949000"
+  },
+  "uid": "681e8e4abc115135d4cb8773",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c64"
+  },
+  "bet": {
+    "$numberLong": "252912000"
+  },
+  "win": {
+    "$numberLong": "64998000"
+  },
+  "lost": {
+    "$numberLong": "99482000"
+  },
+  "totall": {
+    "$numberLong": "-34484000"
+  },
+  "uid": "681e8e53bc115135d4cb878b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c70"
+  },
+  "bet": {
+    "$numberLong": "241864000"
+  },
+  "win": {
+    "$numberLong": "96900000"
+  },
+  "lost": {
+    "$numberLong": "92072000"
+  },
+  "totall": {
+    "$numberLong": "4828000"
+  },
+  "uid": "681e8e39bc115135d4cb8744",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c7c"
+  },
+  "bet": {
+    "$numberLong": "246635000"
+  },
+  "win": {
+    "$numberLong": "67007000"
+  },
+  "lost": {
+    "$numberLong": "103424000"
+  },
+  "totall": {
+    "$numberLong": "-36417000"
+  },
+  "uid": "681e8e3cbc115135d4cb874f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c88"
+  },
+  "bet": {
+    "$numberLong": "285260000"
+  },
+  "win": {
+    "$numberLong": "108911000"
+  },
+  "lost": {
+    "$numberLong": "106522000"
+  },
+  "totall": {
+    "$numberLong": "2389000"
+  },
+  "uid": "681e8e47bc115135d4cb876b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c94"
+  },
+  "bet": {
+    "$numberLong": "289144000"
+  },
+  "win": {
+    "$numberLong": "94592000"
+  },
+  "lost": {
+    "$numberLong": "121462000"
+  },
+  "totall": {
+    "$numberLong": "-26870000"
+  },
+  "uid": "681e8e50bc115135d4cb8785",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ca0"
+  },
+  "bet": {
+    "$numberLong": "324926000"
+  },
+  "win": {
+    "$numberLong": "128392000"
+  },
+  "lost": {
+    "$numberLong": "133024000"
+  },
+  "totall": {
+    "$numberLong": "-4632000"
+  },
+  "uid": "681e8e4dbc115135d4cb877d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cac"
+  },
+  "bet": {
+    "$numberLong": "308414000"
+  },
+  "win": {
+    "$numberLong": "140886000"
+  },
+  "lost": {
+    "$numberLong": "113820000"
+  },
+  "totall": {
+    "$numberLong": "27066000"
+  },
+  "uid": "681e8e56bc115135d4cb8795",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cb8"
+  },
+  "bet": {
+    "$numberLong": "303220000"
+  },
+  "win": {
+    "$numberLong": "109914000"
+  },
+  "lost": {
+    "$numberLong": "119230000"
+  },
+  "totall": {
+    "$numberLong": "-9316000"
+  },
+  "uid": "681e8e3cbc115135d4cb874e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cc4"
+  },
+  "bet": {
+    "$numberLong": "284348000"
+  },
+  "win": {
+    "$numberLong": "92568000"
+  },
+  "lost": {
+    "$numberLong": "109118000"
+  },
+  "totall": {
+    "$numberLong": "-16550000"
+  },
+  "uid": "681e8e46bc115135d4cb876a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cd0"
+  },
+  "bet": {
+    "$numberLong": "307488000"
+  },
+  "win": {
+    "$numberLong": "111005000"
+  },
+  "lost": {
+    "$numberLong": "121156000"
+  },
+  "totall": {
+    "$numberLong": "-10151000"
+  },
+  "uid": "681e8e38bc115135d4cb8741",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cdc"
+  },
+  "bet": {
+    "$numberLong": "335916000"
+  },
+  "win": {
+    "$numberLong": "159728000"
+  },
+  "lost": {
+    "$numberLong": "150932000"
+  },
+  "totall": {
+    "$numberLong": "8796000"
+  },
+  "uid": "681e8e40bc115135d4cb8759",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ce8"
+  },
+  "bet": {
+    "$numberLong": "269414000"
+  },
+  "win": {
+    "$numberLong": "126953000"
+  },
+  "lost": {
+    "$numberLong": "82126000"
+  },
+  "totall": {
+    "$numberLong": "44827000"
+  },
+  "uid": "681e8e4abc115135d4cb8775",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cf4"
+  },
+  "bet": {
+    "$numberLong": "316546000"
+  },
+  "win": {
+    "$numberLong": "113808000"
+  },
+  "lost": {
+    "$numberLong": "120776000"
+  },
+  "totall": {
+    "$numberLong": "-6968000"
+  },
+  "uid": "681e8e54bc115135d4cb878f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d00"
+  },
+  "bet": {
+    "$numberLong": "290926000"
+  },
+  "win": {
+    "$numberLong": "105669000"
+  },
+  "lost": {
+    "$numberLong": "124074000"
+  },
+  "totall": {
+    "$numberLong": "-18405000"
+  },
+  "uid": "681e8e55bc115135d4cb8791",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d0c"
+  },
+  "bet": {
+    "$numberLong": "212078000"
+  },
+  "win": {
+    "$numberLong": "100856000"
+  },
+  "lost": {
+    "$numberLong": "63264000"
+  },
+  "totall": {
+    "$numberLong": "37592000"
+  },
+  "uid": "681e8e3abc115135d4cb8748",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d18"
+  },
+  "bet": {
+    "$numberLong": "274688000"
+  },
+  "win": {
+    "$numberLong": "107202000"
+  },
+  "lost": {
+    "$numberLong": "104469000"
+  },
+  "totall": {
+    "$numberLong": "2733000"
+  },
+  "uid": "681e8e43bc115135d4cb8762",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d24"
+  },
+  "bet": {
+    "$numberLong": "302402000"
+  },
+  "win": {
+    "$numberLong": "81762000"
+  },
+  "lost": {
+    "$numberLong": "130418000"
+  },
+  "totall": {
+    "$numberLong": "-48656000"
+  },
+  "uid": "681e8e58bc115135d4cb879b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d30"
+  },
+  "bet": {
+    "$numberLong": "280514000"
+  },
+  "win": {
+    "$numberLong": "85809000"
+  },
+  "lost": {
+    "$numberLong": "114026000"
+  },
+  "totall": {
+    "$numberLong": "-28217000"
+  },
+  "uid": "681e8e3dbc115135d4cb8752",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d3c"
+  },
+  "bet": {
+    "$numberLong": "313398000"
+  },
+  "win": {
+    "$numberLong": "109448000"
+  },
+  "lost": {
+    "$numberLong": "127438000"
+  },
+  "totall": {
+    "$numberLong": "-17990000"
+  },
+  "uid": "681e8e47bc115135d4cb876c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d48"
+  },
+  "bet": {
+    "$numberLong": "290008000"
+  },
+  "win": {
+    "$numberLong": "141016000"
+  },
+  "lost": {
+    "$numberLong": "105398000"
+  },
+  "totall": {
+    "$numberLong": "35618000"
+  },
+  "uid": "681e8e51bc115135d4cb8788",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d54"
+  },
+  "bet": {
+    "$numberLong": "271576000"
+  },
+  "win": {
+    "$numberLong": "94238000"
+  },
+  "lost": {
+    "$numberLong": "104708000"
+  },
+  "totall": {
+    "$numberLong": "-10470000"
+  },
+  "uid": "681e8e44bc115135d4cb8764",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d60"
+  },
+  "bet": {
+    "$numberLong": "280451000"
+  },
+  "win": {
+    "$numberLong": "109092000"
+  },
+  "lost": {
+    "$numberLong": "100493000"
+  },
+  "totall": {
+    "$numberLong": "8599000"
+  },
+  "uid": "681e8e4dbc115135d4cb877c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d6c"
+  },
+  "bet": {
+    "$numberLong": "275406000"
+  },
+  "win": {
+    "$numberLong": "125997000"
+  },
+  "lost": {
+    "$numberLong": "88326000"
+  },
+  "totall": {
+    "$numberLong": "37671000"
+  },
+  "uid": "681e8e57bc115135d4cb8798",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d78"
+  },
+  "bet": {
+    "$numberLong": "283968000"
+  },
+  "win": {
+    "$numberLong": "68303000"
+  },
+  "lost": {
+    "$numberLong": "131358000"
+  },
+  "totall": {
+    "$numberLong": "-63055000"
+  },
+  "uid": "681e8e3dbc115135d4cb8751",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d84"
+  },
+  "bet": {
+    "$numberLong": "262208000"
+  },
+  "win": {
+    "$numberLong": "105164000"
+  },
+  "lost": {
+    "$numberLong": "99049000"
+  },
+  "totall": {
+    "$numberLong": "6115000"
+  },
+  "uid": "681e8e38bc115135d4cb8740",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d90"
+  },
+  "bet": {
+    "$numberLong": "284026000"
+  },
+  "win": {
+    "$numberLong": "128862000"
+  },
+  "lost": {
+    "$numberLong": "107916000"
+  },
+  "totall": {
+    "$numberLong": "20946000"
+  },
+  "uid": "681e8e41bc115135d4cb875c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d9c"
+  },
+  "bet": {
+    "$numberLong": "258555000"
+  },
+  "win": {
+    "$numberLong": "70113000"
+  },
+  "lost": {
+    "$numberLong": "126576000"
+  },
+  "totall": {
+    "$numberLong": "-56463000"
+  },
+  "uid": "681e8e4bbc115135d4cb8776",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772da8"
+  },
+  "bet": {
+    "$numberLong": "294364000"
+  },
+  "win": {
+    "$numberLong": "126382000"
+  },
+  "lost": {
+    "$numberLong": "120694000"
+  },
+  "totall": {
+    "$numberLong": "5688000"
+  },
+  "uid": "681e8e55bc115135d4cb8792",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772db4"
+  },
+  "bet": {
+    "$numberLong": "286650000"
+  },
+  "win": {
+    "$numberLong": "105540000"
+  },
+  "lost": {
+    "$numberLong": "126908000"
+  },
+  "totall": {
+    "$numberLong": "-21368000"
+  },
+  "uid": "681e8e4bbc115135d4cb8778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dc0"
+  },
+  "bet": {
+    "$numberLong": "275014000"
+  },
+  "win": {
+    "$numberLong": "62752000"
+  },
+  "lost": {
+    "$numberLong": "118958000"
+  },
+  "totall": {
+    "$numberLong": "-56206000"
+  },
+  "uid": "681e8e54bc115135d4cb8790",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dcc"
+  },
+  "bet": {
+    "$numberLong": "273016000"
+  },
+  "win": {
+    "$numberLong": "106809000"
+  },
+  "lost": {
+    "$numberLong": "98140000"
+  },
+  "totall": {
+    "$numberLong": "8669000"
+  },
+  "uid": "681e8e3abc115135d4cb8749",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dd8"
+  },
+  "bet": {
+    "$numberLong": "250803000"
+  },
+  "win": {
+    "$numberLong": "90807000"
+  },
+  "lost": {
+    "$numberLong": "87791000"
+  },
+  "totall": {
+    "$numberLong": "3016000"
+  },
+  "uid": "681e8e44bc115135d4cb8765",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772de4"
+  },
+  "bet": {
+    "$numberLong": "317528000"
+  },
+  "win": {
+    "$numberLong": "88118000"
+  },
+  "lost": {
+    "$numberLong": "146998000"
+  },
+  "totall": {
+    "$numberLong": "-58880000"
+  },
+  "uid": "681e8e5abc115135d4cb87a0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772df0"
+  },
+  "bet": {
+    "$numberLong": "309166000"
+  },
+  "win": {
+    "$numberLong": "85028000"
+  },
+  "lost": {
+    "$numberLong": "115866000"
+  },
+  "totall": {
+    "$numberLong": "-30838000"
+  },
+  "uid": "681e8e3fbc115135d4cb8757",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dfc"
+  },
+  "bet": {
+    "$numberLong": "312694000"
+  },
+  "win": {
+    "$numberLong": "110452000"
+  },
+  "lost": {
+    "$numberLong": "114070000"
+  },
+  "totall": {
+    "$numberLong": "-3618000"
+  },
+  "uid": "681e8e49bc115135d4cb8771",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e08"
+  },
+  "bet": {
+    "$numberLong": "314886000"
+  },
+  "win": {
+    "$numberLong": "87632000"
+  },
+  "lost": {
+    "$numberLong": "134052000"
+  },
+  "totall": {
+    "$numberLong": "-46420000"
+  },
+  "uid": "681e8e53bc115135d4cb878d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e14"
+  },
+  "bet": {
+    "$numberLong": "292516000"
+  },
+  "win": {
+    "$numberLong": "108978000"
+  },
+  "lost": {
+    "$numberLong": "117734000"
+  },
+  "totall": {
+    "$numberLong": "-8756000"
+  },
+  "uid": "681e8e58bc115135d4cb879a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e20"
+  },
+  "bet": {
+    "$numberLong": "300254000"
+  },
+  "win": {
+    "$numberLong": "97080000"
+  },
+  "lost": {
+    "$numberLong": "125432000"
+  },
+  "totall": {
+    "$numberLong": "-28352000"
+  },
+  "uid": "681e8e3ebc115135d4cb8753",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e2c"
+  },
+  "bet": {
+    "$numberLong": "311292000"
+  },
+  "win": {
+    "$numberLong": "120990000"
+  },
+  "lost": {
+    "$numberLong": "121664000"
+  },
+  "totall": {
+    "$numberLong": "-674000"
+  },
+  "uid": "681e8e48bc115135d4cb876f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e38"
+  },
+  "bet": {
+    "$numberLong": "232212000"
+  },
+  "win": {
+    "$numberLong": "65154000"
+  },
+  "lost": {
+    "$numberLong": "105672000"
+  },
+  "totall": {
+    "$numberLong": "-40518000"
+  },
+  "uid": "681e8e3bbc115135d4cb874b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e44"
+  },
+  "bet": {
+    "$numberLong": "287422000"
+  },
+  "win": {
+    "$numberLong": "74602000"
+  },
+  "lost": {
+    "$numberLong": "130722000"
+  },
+  "totall": {
+    "$numberLong": "-56120000"
+  },
+  "uid": "681e8e44bc115135d4cb8763",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e50"
+  },
+  "bet": {
+    "$numberLong": "263778000"
+  },
+  "win": {
+    "$numberLong": "115294000"
+  },
+  "lost": {
+    "$numberLong": "106846000"
+  },
+  "totall": {
+    "$numberLong": "8448000"
+  },
+  "uid": "681e8e4ebc115135d4cb877f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e5c"
+  },
+  "bet": {
+    "$numberLong": "292280000"
+  },
+  "win": {
+    "$numberLong": "118574000"
+  },
+  "lost": {
+    "$numberLong": "104430000"
+  },
+  "totall": {
+    "$numberLong": "14144000"
+  },
+  "uid": "681e8e58bc115135d4cb8799",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e68"
+  },
+  "bet": {
+    "$numberLong": "277448000"
+  },
+  "win": {
+    "$numberLong": "109604000"
+  },
+  "lost": {
+    "$numberLong": "105988000"
+  },
+  "totall": {
+    "$numberLong": "3616000"
+  },
+  "uid": "681e8e53bc115135d4cb878c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e74"
+  },
+  "bet": {
+    "$numberLong": "307918000"
+  },
+  "win": {
+    "$numberLong": "133628000"
+  },
+  "lost": {
+    "$numberLong": "113304000"
+  },
+  "totall": {
+    "$numberLong": "20324000"
+  },
+  "uid": "681e8e39bc115135d4cb8743",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e80"
+  },
+  "bet": {
+    "$numberLong": "278590000"
+  },
+  "win": {
+    "$numberLong": "92054000"
+  },
+  "lost": {
+    "$numberLong": "100014000"
+  },
+  "totall": {
+    "$numberLong": "-7960000"
+  },
+  "uid": "681e8e41bc115135d4cb875d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e8c"
+  },
+  "bet": {
+    "$numberLong": "291268000"
+  },
+  "win": {
+    "$numberLong": "121654000"
+  },
+  "lost": {
+    "$numberLong": "120212000"
+  },
+  "totall": {
+    "$numberLong": "1442000"
+  },
+  "uid": "681e8e4cbc115135d4cb8779",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e98"
+  },
+  "bet": {
+    "$numberLong": "321100000"
+  },
+  "win": {
+    "$numberLong": "119049000"
+  },
+  "lost": {
+    "$numberLong": "121378000"
+  },
+  "totall": {
+    "$numberLong": "-2329000"
+  },
+  "uid": "681e8e42bc115135d4cb875f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ea4"
+  },
+  "bet": {
+    "$numberLong": "266476000"
+  },
+  "win": {
+    "$numberLong": "75407000"
+  },
+  "lost": {
+    "$numberLong": "103664000"
+  },
+  "totall": {
+    "$numberLong": "-28257000"
+  },
+  "uid": "681e8e4bbc115135d4cb8777",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eb0"
+  },
+  "bet": {
+    "$numberLong": "301994000"
+  },
+  "win": {
+    "$numberLong": "96657000"
+  },
+  "lost": {
+    "$numberLong": "110438000"
+  },
+  "totall": {
+    "$numberLong": "-13781000"
+  },
+  "uid": "681e8e55bc115135d4cb8793",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ebc"
+  },
+  "bet": {
+    "$numberLong": "270369000"
+  },
+  "win": {
+    "$numberLong": "106784000"
+  },
+  "lost": {
+    "$numberLong": "101837000"
+  },
+  "totall": {
+    "$numberLong": "4947000"
+  },
+  "uid": "681e8e3bbc115135d4cb874c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ec8"
+  },
+  "bet": {
+    "$numberLong": "304166000"
+  },
+  "win": {
+    "$numberLong": "112025000"
+  },
+  "lost": {
+    "$numberLong": "112552000"
+  },
+  "totall": {
+    "$numberLong": "-527000"
+  },
+  "uid": "681e8e51bc115135d4cb8787",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ed4"
+  },
+  "bet": {
+    "$numberLong": "275840000"
+  },
+  "win": {
+    "$numberLong": "99166000"
+  },
+  "lost": {
+    "$numberLong": "105884000"
+  },
+  "totall": {
+    "$numberLong": "-6718000"
+  },
+  "uid": "681e8e5abc115135d4cb879f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ee0"
+  },
+  "bet": {
+    "$numberLong": "271822000"
+  },
+  "win": {
+    "$numberLong": "116848000"
+  },
+  "lost": {
+    "$numberLong": "90096000"
+  },
+  "totall": {
+    "$numberLong": "26752000"
+  },
+  "uid": "681e8e40bc115135d4cb8758",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eec"
+  },
+  "bet": {
+    "$numberLong": "285787000"
+  },
+  "win": {
+    "$numberLong": "99575000"
+  },
+  "lost": {
+    "$numberLong": "94086000"
+  },
+  "totall": {
+    "$numberLong": "5489000"
+  },
+  "uid": "681e8e4abc115135d4cb8774",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ef8"
+  },
+  "bet": {
+    "$numberLong": "323264000"
+  },
+  "win": {
+    "$numberLong": "103343000"
+  },
+  "lost": {
+    "$numberLong": "119622000"
+  },
+  "totall": {
+    "$numberLong": "-16279000"
+  },
+  "uid": "681e8e45bc115135d4cb8767",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f04"
+  },
+  "bet": {
+    "$numberLong": "260006000"
+  },
+  "win": {
+    "$numberLong": "87206000"
+  },
+  "lost": {
+    "$numberLong": "114650000"
+  },
+  "totall": {
+    "$numberLong": "-27444000"
+  },
+  "uid": "681e8e50bc115135d4cb8783",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f10"
+  },
+  "bet": {
+    "$numberLong": "266962000"
+  },
+  "win": {
+    "$numberLong": "118322000"
+  },
+  "lost": {
+    "$numberLong": "85176000"
+  },
+  "totall": {
+    "$numberLong": "33146000"
+  },
+  "uid": "681e8e40bc115135d4cb875a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f1c"
+  },
+  "bet": {
+    "$numberLong": "308238000"
+  },
+  "win": {
+    "$numberLong": "140594000"
+  },
+  "lost": {
+    "$numberLong": "114632000"
+  },
+  "totall": {
+    "$numberLong": "25962000"
+  },
+  "uid": "681e8e49bc115135d4cb8772",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f28"
+  },
+  "bet": {
+    "$numberLong": "288426000"
+  },
+  "win": {
+    "$numberLong": "112940000"
+  },
+  "lost": {
+    "$numberLong": "104488000"
+  },
+  "totall": {
+    "$numberLong": "8452000"
+  },
+  "uid": "681e8e54bc115135d4cb878e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f34"
+  },
+  "bet": {
+    "$numberLong": "268550000"
+  },
+  "win": {
+    "$numberLong": "110638000"
+  },
+  "lost": {
+    "$numberLong": "105490000"
+  },
+  "totall": {
+    "$numberLong": "5148000"
+  },
+  "uid": "681e8e3abc115135d4cb8747",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f40"
+  },
+  "bet": {
+    "$numberLong": "301390000"
+  },
+  "win": {
+    "$numberLong": "118806000"
+  },
+  "lost": {
+    "$numberLong": "120048000"
+  },
+  "totall": {
+    "$numberLong": "-1242000"
+  },
+  "uid": "681e8e39bc115135d4cb8745",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f4c"
+  },
+  "bet": {
+    "$numberLong": "297904000"
+  },
+  "win": {
+    "$numberLong": "106496000"
+  },
+  "lost": {
+    "$numberLong": "119184000"
+  },
+  "totall": {
+    "$numberLong": "-12688000"
+  },
+  "uid": "681e8e43bc115135d4cb8761",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f58"
+  },
+  "bet": {
+    "$numberLong": "348295000"
+  },
+  "win": {
+    "$numberLong": "123839000"
+  },
+  "lost": {
+    "$numberLong": "143174000"
+  },
+  "totall": {
+    "$numberLong": "-19335000"
+  },
+  "uid": "681e8e4dbc115135d4cb877b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f64"
+  },
+  "bet": {
+    "$numberLong": "328772000"
+  },
+  "win": {
+    "$numberLong": "101172000"
+  },
+  "lost": {
+    "$numberLong": "125926000"
+  },
+  "totall": {
+    "$numberLong": "-24754000"
+  },
+  "uid": "681e8e57bc115135d4cb8797",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f70"
+  },
+  "bet": {
+    "$numberLong": "305198000"
+  },
+  "win": {
+    "$numberLong": "92206000"
+  },
+  "lost": {
+    "$numberLong": "117916000"
+  },
+  "totall": {
+    "$numberLong": "-25710000"
+  },
+  "uid": "681e8e3ebc115135d4cb8755",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f7c"
+  },
+  "bet": {
+    "$numberLong": "331866000"
+  },
+  "win": {
+    "$numberLong": "124493000"
+  },
+  "lost": {
+    "$numberLong": "126592000"
+  },
+  "totall": {
+    "$numberLong": "-2099000"
+  },
+  "uid": "681e8e47bc115135d4cb876d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f88"
+  },
+  "bet": {
+    "$numberLong": "302960000"
+  },
+  "win": {
+    "$numberLong": "114547000"
+  },
+  "lost": {
+    "$numberLong": "105386000"
+  },
+  "totall": {
+    "$numberLong": "9161000"
+  },
+  "uid": "681e8e52bc115135d4cb8789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f94"
+  },
+  "bet": {
+    "$numberLong": "316589000"
+  },
+  "win": {
+    "$numberLong": "107861000"
+  },
+  "lost": {
+    "$numberLong": "127324000"
+  },
+  "totall": {
+    "$numberLong": "-19463000"
+  },
+  "uid": "681e8e39bc115135d4cb8742",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fa0"
+  },
+  "bet": {
+    "$numberLong": "298428000"
+  },
+  "win": {
+    "$numberLong": "78968000"
+  },
+  "lost": {
+    "$numberLong": "127074000"
+  },
+  "totall": {
+    "$numberLong": "-48106000"
+  },
+  "uid": "681e8e43bc115135d4cb8760",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fac"
+  },
+  "bet": {
+    "$numberLong": "301270000"
+  },
+  "win": {
+    "$numberLong": "113842000"
+  },
+  "lost": {
+    "$numberLong": "115558000"
+  },
+  "totall": {
+    "$numberLong": "-1716000"
+  },
+  "uid": "681e8e39bc115135d4cb8746",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fb8"
+  },
+  "bet": {
+    "$numberLong": "277392000"
+  },
+  "win": {
+    "$numberLong": "105184000"
+  },
+  "lost": {
+    "$numberLong": "109146000"
+  },
+  "totall": {
+    "$numberLong": "-3962000"
+  },
+  "uid": "681e8e42bc115135d4cb875e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fc4"
+  },
+  "bet": {
+    "$numberLong": "294668000"
+  },
+  "win": {
+    "$numberLong": "82832000"
+  },
+  "lost": {
+    "$numberLong": "103503000"
+  },
+  "totall": {
+    "$numberLong": "-20671000"
+  },
+  "uid": "681e8e4cbc115135d4cb877a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fd0"
+  },
+  "bet": {
+    "$numberLong": "289478000"
+  },
+  "win": {
+    "$numberLong": "104611000"
+  },
+  "lost": {
+    "$numberLong": "109923000"
+  },
+  "totall": {
+    "$numberLong": "-5312000"
+  },
+  "uid": "681e8e56bc115135d4cb8794",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fdc"
+  },
+  "bet": {
+    "$numberLong": "254043000"
+  },
+  "win": {
+    "$numberLong": "57614000"
+  },
+  "lost": {
+    "$numberLong": "115145000"
+  },
+  "totall": {
+    "$numberLong": "-57531000"
+  },
+  "uid": "681e8e48bc115135d4cb876e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fe8"
+  },
+  "bet": {
+    "$numberLong": "326176000"
+  },
+  "win": {
+    "$numberLong": "89177000"
+  },
+  "lost": {
+    "$numberLong": "124716000"
+  },
+  "totall": {
+    "$numberLong": "-35539000"
+  },
+  "uid": "681e8e51bc115135d4cb8786",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ff4"
+  },
+  "bet": {
+    "$numberLong": "256028000"
+  },
+  "win": {
+    "$numberLong": "95314000"
+  },
+  "lost": {
+    "$numberLong": "104938000"
+  },
+  "totall": {
+    "$numberLong": "-9624000"
+  },
+  "uid": "681e8e38bc115135d4cb873f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078773000"
+  },
+  "bet": {
+    "$numberLong": "264534000"
+  },
+  "win": {
+    "$numberLong": "127517000"
+  },
+  "lost": {
+    "$numberLong": "99899000"
+  },
+  "totall": {
+    "$numberLong": "27618000"
+  },
+  "uid": "681e8e41bc115135d4cb875b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b107877300c"
+  },
+  "bet": {
+    "$numberLong": "269766000"
+  },
+  "win": {
+    "$numberLong": "91788000"
+  },
+  "lost": {
+    "$numberLong": "90712000"
+  },
+  "totall": {
+    "$numberLong": "1076000"
+  },
+  "uid": "681e8e4ebc115135d4cb877e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773018"
+  },
+  "bet": {
+    "$numberLong": "313856000"
+  },
+  "win": {
+    "$numberLong": "133600000"
+  },
+  "lost": {
+    "$numberLong": "112138000"
+  },
+  "totall": {
+    "$numberLong": "21462000"
+  },
+  "uid": "681e8e48bc115135d4cb8770",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773024"
+  },
+  "bet": {
+    "$numberLong": "257122000"
+  },
+  "win": {
+    "$numberLong": "70987000"
+  },
+  "lost": {
+    "$numberLong": "103356000"
+  },
+  "totall": {
+    "$numberLong": "-32369000"
+  },
+  "uid": "681e8e52bc115135d4cb878a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773030"
+  },
+  "bet": {
+    "$numberLong": "271946000"
+  },
+  "win": {
+    "$numberLong": "82238000"
+  },
+  "lost": {
+    "$numberLong": "85382000"
+  },
+  "totall": {
+    "$numberLong": "-3144000"
+  },
+  "uid": "681e8e5bbc115135d4cb87a1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ed5d42d52453c787eaf22"
+  },
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "uid": "681ed5ca2d52453c787eaf14",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681edc39264037351ce6faaa"
+  },
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "uid": "681edc35264037351ce6fa9a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f54c24314800dd054cf88"
+  },
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "uid": "681f54c04314800dd054cf78",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820e4eaef27f2351cda7fb6"
+  },
+  "bet": {
+    "$numberLong": "9908000"
+  },
+  "win": {
+    "$numberLong": "2892000"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "2892000"
+  },
+  "uid": "6820e4e6ef27f2351cda7f10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821e7e49e88e91268959e6f"
+  },
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "uid": "6821e7dd9e88e91268959a06",
+  "__v": 0
+}]

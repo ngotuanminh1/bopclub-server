@@ -1,0 +1,2600 @@
+[{
+  "_id": {
+    "$oid": "681e8e0c06251d0438d12725"
+  },
+  "tRedPlay": {
+    "$numberLong": "69279623"
+  },
+  "tWinRed": {
+    "$numberLong": "29340419"
+  },
+  "tLostRed": {
+    "$numberLong": "39340419"
+  },
+  "totall": {
+    "$numberLong": "-10000000"
+  },
+  "tLineWinRed": 4,
+  "tLineLostRed": 1,
+  "first": 398,
+  "last": 398,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e0306251d0438d12720",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772b9a"
+  },
+  "tRedPlay": {
+    "$numberLong": "3191625000"
+  },
+  "tWinRed": {
+    "$numberLong": "1649070500"
+  },
+  "tLostRed": {
+    "$numberLong": "1508900000"
+  },
+  "totall": {
+    "$numberLong": "140170500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 6,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4fbc115135d4cb8782",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ba6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2653125000"
+  },
+  "tWinRed": {
+    "$numberLong": "1248814000"
+  },
+  "tLostRed": {
+    "$numberLong": "1378825000"
+  },
+  "totall": {
+    "$numberLong": "-130011000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3dbc115135d4cb8750",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bb2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2804650000"
+  },
+  "tWinRed": {
+    "$numberLong": "1570719500"
+  },
+  "tLostRed": {
+    "$numberLong": "1201875000"
+  },
+  "totall": {
+    "$numberLong": "368844500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 5,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3ebc115135d4cb8754",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bbe"
+  },
+  "tRedPlay": {
+    "$numberLong": "2597825000"
+  },
+  "tWinRed": {
+    "$numberLong": "1127563500"
+  },
+  "tLostRed": {
+    "$numberLong": "1447250000"
+  },
+  "totall": {
+    "$numberLong": "-319686500"
+  },
+  "tLineWinRed": 12,
+  "tLineLostRed": 9,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e50bc115135d4cb8784",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bca"
+  },
+  "tRedPlay": {
+    "$numberLong": "2474850000"
+  },
+  "tWinRed": {
+    "$numberLong": "1361367000"
+  },
+  "tLostRed": {
+    "$numberLong": "1085700000"
+  },
+  "totall": {
+    "$numberLong": "275667000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e5abc115135d4cb879e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bd6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2905075000"
+  },
+  "tWinRed": {
+    "$numberLong": "1452629500"
+  },
+  "tLostRed": {
+    "$numberLong": "1422800000"
+  },
+  "totall": {
+    "$numberLong": "29829500"
+  },
+  "tLineWinRed": 10,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e57bc115135d4cb8796",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772be2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2815875000"
+  },
+  "tWinRed": {
+    "$numberLong": "1309672000"
+  },
+  "tLostRed": {
+    "$numberLong": "1479475000"
+  },
+  "totall": {
+    "$numberLong": "-169803000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3bbc115135d4cb874d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bee"
+  },
+  "tRedPlay": {
+    "$numberLong": "2888875000"
+  },
+  "tWinRed": {
+    "$numberLong": "1469559000"
+  },
+  "tLostRed": {
+    "$numberLong": "1389325000"
+  },
+  "totall": {
+    "$numberLong": "80234000"
+  },
+  "tLineWinRed": 12,
+  "tLineLostRed": 6,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e46bc115135d4cb8769",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bfa"
+  },
+  "tRedPlay": {
+    "$numberLong": "2601875000"
+  },
+  "tWinRed": {
+    "$numberLong": "1044851500"
+  },
+  "tLostRed": {
+    "$numberLong": "1535700000"
+  },
+  "totall": {
+    "$numberLong": "-490848500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4fbc115135d4cb8781",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c06"
+  },
+  "tRedPlay": {
+    "$numberLong": "2758075000"
+  },
+  "tWinRed": {
+    "$numberLong": "1306585000"
+  },
+  "tLostRed": {
+    "$numberLong": "1424825000"
+  },
+  "totall": {
+    "$numberLong": "-118240000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 6,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e59bc115135d4cb879d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c12"
+  },
+  "tRedPlay": {
+    "$numberLong": "2487700000"
+  },
+  "tWinRed": {
+    "$numberLong": "1167523000"
+  },
+  "tLostRed": {
+    "$numberLong": "1296350000"
+  },
+  "totall": {
+    "$numberLong": "-128827000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3fbc115135d4cb8756",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c1e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2591475000"
+  },
+  "tWinRed": {
+    "$numberLong": "1302787500"
+  },
+  "tLostRed": {
+    "$numberLong": "1262100000"
+  },
+  "totall": {
+    "$numberLong": "40687500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 3,
+  "uid": "681e8e3abc115135d4cb874a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c2a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2633750000"
+  },
+  "tWinRed": {
+    "$numberLong": "1059306500"
+  },
+  "tLostRed": {
+    "$numberLong": "1552825000"
+  },
+  "totall": {
+    "$numberLong": "-493518500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e45bc115135d4cb8766",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c36"
+  },
+  "tRedPlay": {
+    "$numberLong": "2749325000"
+  },
+  "tWinRed": {
+    "$numberLong": "1281276500"
+  },
+  "tLostRed": {
+    "$numberLong": "1441900000"
+  },
+  "totall": {
+    "$numberLong": "-160623500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4ebc115135d4cb8780",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c42"
+  },
+  "tRedPlay": {
+    "$numberLong": "2881700000"
+  },
+  "tWinRed": {
+    "$numberLong": "1471543500"
+  },
+  "tLostRed": {
+    "$numberLong": "1380125000"
+  },
+  "totall": {
+    "$numberLong": "91418500"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e59bc115135d4cb879c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c4e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2782650000"
+  },
+  "tWinRed": {
+    "$numberLong": "1461817000"
+  },
+  "tLostRed": {
+    "$numberLong": "1291000000"
+  },
+  "totall": {
+    "$numberLong": "170817000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 9,
+  "first": 405,
+  "last": 406,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4abc115135d4cb8773",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c5a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2881050000"
+  },
+  "tWinRed": {
+    "$numberLong": "1505255500"
+  },
+  "tLostRed": {
+    "$numberLong": "1345075000"
+  },
+  "totall": {
+    "$numberLong": "160180500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e53bc115135d4cb878b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c66"
+  },
+  "tRedPlay": {
+    "$numberLong": "3059700000"
+  },
+  "tWinRed": {
+    "$numberLong": "1448440000"
+  },
+  "tLostRed": {
+    "$numberLong": "1581700000"
+  },
+  "totall": {
+    "$numberLong": "-133260000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e39bc115135d4cb8744",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c72"
+  },
+  "tRedPlay": {
+    "$numberLong": "2651025000"
+  },
+  "tWinRed": {
+    "$numberLong": "1232889000"
+  },
+  "tLostRed": {
+    "$numberLong": "1392975000"
+  },
+  "totall": {
+    "$numberLong": "-160086000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 9,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3cbc115135d4cb874f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c7e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2708300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1559964000"
+  },
+  "tLostRed": {
+    "$numberLong": "1116500000"
+  },
+  "totall": {
+    "$numberLong": "443464000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e47bc115135d4cb876b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c8a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2547050000"
+  },
+  "tWinRed": {
+    "$numberLong": "1138515000"
+  },
+  "tLostRed": {
+    "$numberLong": "1385300000"
+  },
+  "totall": {
+    "$numberLong": "-246785000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 5,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e50bc115135d4cb8785",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c96"
+  },
+  "tRedPlay": {
+    "$numberLong": "3007225000"
+  },
+  "tWinRed": {
+    "$numberLong": "1574100500"
+  },
+  "tLostRed": {
+    "$numberLong": "1401000000"
+  },
+  "totall": {
+    "$numberLong": "173100500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e4dbc115135d4cb877d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ca2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2691050000"
+  },
+  "tWinRed": {
+    "$numberLong": "1407010500"
+  },
+  "tLostRed": {
+    "$numberLong": "1255325000"
+  },
+  "totall": {
+    "$numberLong": "151685500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e56bc115135d4cb8795",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cae"
+  },
+  "tRedPlay": {
+    "$numberLong": "2714300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1463140000"
+  },
+  "tLostRed": {
+    "$numberLong": "1221300000"
+  },
+  "totall": {
+    "$numberLong": "241840000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 12,
+  "first": 400,
+  "last": 405,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 5,
+  "uid": "681e8e3cbc115135d4cb874e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cba"
+  },
+  "tRedPlay": {
+    "$numberLong": "2902325000"
+  },
+  "tWinRed": {
+    "$numberLong": "1319643500"
+  },
+  "tLostRed": {
+    "$numberLong": "1555750000"
+  },
+  "totall": {
+    "$numberLong": "-236106500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 10,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 3,
+  "uid": "681e8e46bc115135d4cb876a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cc6"
+  },
+  "tRedPlay": {
+    "$numberLong": "3008525000"
+  },
+  "tWinRed": {
+    "$numberLong": "1464071000"
+  },
+  "tLostRed": {
+    "$numberLong": "1514575000"
+  },
+  "totall": {
+    "$numberLong": "-50504000"
+  },
+  "tLineWinRed": 10,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e38bc115135d4cb8741",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cd2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2606175000"
+  },
+  "tWinRed": {
+    "$numberLong": "1312636500"
+  },
+  "tLostRed": {
+    "$numberLong": "1266750000"
+  },
+  "totall": {
+    "$numberLong": "45886500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e40bc115135d4cb8759",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cde"
+  },
+  "tRedPlay": {
+    "$numberLong": "2893000000"
+  },
+  "tWinRed": {
+    "$numberLong": "1338459500"
+  },
+  "tLostRed": {
+    "$numberLong": "1527225000"
+  },
+  "totall": {
+    "$numberLong": "-188765500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 11,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4abc115135d4cb8775",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cea"
+  },
+  "tRedPlay": {
+    "$numberLong": "2958250000"
+  },
+  "tWinRed": {
+    "$numberLong": "1433201000"
+  },
+  "tLostRed": {
+    "$numberLong": "1495800000"
+  },
+  "totall": {
+    "$numberLong": "-62599000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 10,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e54bc115135d4cb878f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cf6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2573400000"
+  },
+  "tWinRed": {
+    "$numberLong": "1293649000"
+  },
+  "tLostRed": {
+    "$numberLong": "1253350000"
+  },
+  "totall": {
+    "$numberLong": "40299000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 400,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 5,
+  "uid": "681e8e55bc115135d4cb8791",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d02"
+  },
+  "tRedPlay": {
+    "$numberLong": "3225900000"
+  },
+  "tWinRed": {
+    "$numberLong": "1558420500"
+  },
+  "tLostRed": {
+    "$numberLong": "1635675000"
+  },
+  "totall": {
+    "$numberLong": "-77254500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 5,
+  "uid": "681e8e3abc115135d4cb8748",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d0e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2971700000"
+  },
+  "tWinRed": {
+    "$numberLong": "1419113500"
+  },
+  "tLostRed": {
+    "$numberLong": "1523625000"
+  },
+  "totall": {
+    "$numberLong": "-104511500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e43bc115135d4cb8762",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d1a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2738425000"
+  },
+  "tWinRed": {
+    "$numberLong": "1481147500"
+  },
+  "tLostRed": {
+    "$numberLong": "1227050000"
+  },
+  "totall": {
+    "$numberLong": "254097500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e58bc115135d4cb879b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d26"
+  },
+  "tRedPlay": {
+    "$numberLong": "2732125000"
+  },
+  "tWinRed": {
+    "$numberLong": "1475831000"
+  },
+  "tLostRed": {
+    "$numberLong": "1226175000"
+  },
+  "totall": {
+    "$numberLong": "249656000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3dbc115135d4cb8752",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d32"
+  },
+  "tRedPlay": {
+    "$numberLong": "2718650000"
+  },
+  "tWinRed": {
+    "$numberLong": "1183276500"
+  },
+  "tLostRed": {
+    "$numberLong": "1511225000"
+  },
+  "totall": {
+    "$numberLong": "-327948500"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 9,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e47bc115135d4cb876c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d3e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2563750000"
+  },
+  "tWinRed": {
+    "$numberLong": "1044165500"
+  },
+  "tLostRed": {
+    "$numberLong": "1498275000"
+  },
+  "totall": {
+    "$numberLong": "-454109500"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e51bc115135d4cb8788",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d4a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2568875000"
+  },
+  "tWinRed": {
+    "$numberLong": "1202901000"
+  },
+  "tLostRed": {
+    "$numberLong": "1341425000"
+  },
+  "totall": {
+    "$numberLong": "-138524000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e44bc115135d4cb8764",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d56"
+  },
+  "tRedPlay": {
+    "$numberLong": "2289975000"
+  },
+  "tWinRed": {
+    "$numberLong": "1199226000"
+  },
+  "tLostRed": {
+    "$numberLong": "1066275000"
+  },
+  "totall": {
+    "$numberLong": "132951000"
+  },
+  "tLineWinRed": 10,
+  "tLineLostRed": 5,
+  "first": 405,
+  "last": 406,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e4dbc115135d4cb877c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d62"
+  },
+  "tRedPlay": {
+    "$numberLong": "2787350000"
+  },
+  "tWinRed": {
+    "$numberLong": "1448293000"
+  },
+  "tLostRed": {
+    "$numberLong": "1309500000"
+  },
+  "totall": {
+    "$numberLong": "138793000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 12,
+  "first": 402,
+  "last": 406,
+  "tLineWinRedH": 4,
+  "tLineLostRedH": 0,
+  "uid": "681e8e57bc115135d4cb8798",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d6e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2546625000"
+  },
+  "tWinRed": {
+    "$numberLong": "1184060500"
+  },
+  "tLostRed": {
+    "$numberLong": "1338400000"
+  },
+  "totall": {
+    "$numberLong": "-154339500"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3dbc115135d4cb8751",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d7a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2954100000"
+  },
+  "tWinRed": {
+    "$numberLong": "1315111000"
+  },
+  "tLostRed": {
+    "$numberLong": "1612150000"
+  },
+  "totall": {
+    "$numberLong": "-297039000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 407,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e38bc115135d4cb8740",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d86"
+  },
+  "tRedPlay": {
+    "$numberLong": "2467875000"
+  },
+  "tWinRed": {
+    "$numberLong": "1302101500"
+  },
+  "tLostRed": {
+    "$numberLong": "1139200000"
+  },
+  "totall": {
+    "$numberLong": "162901500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e41bc115135d4cb875c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d92"
+  },
+  "tRedPlay": {
+    "$numberLong": "2616675000"
+  },
+  "tWinRed": {
+    "$numberLong": "1334711000"
+  },
+  "tLostRed": {
+    "$numberLong": "1254725000"
+  },
+  "totall": {
+    "$numberLong": "79986000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e4bbc115135d4cb8776",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d9e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2731925000"
+  },
+  "tWinRed": {
+    "$numberLong": "1446137000"
+  },
+  "tLostRed": {
+    "$numberLong": "1256275000"
+  },
+  "totall": {
+    "$numberLong": "189862000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 5,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e55bc115135d4cb8792",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772daa"
+  },
+  "tRedPlay": {
+    "$numberLong": "2770450000"
+  },
+  "tWinRed": {
+    "$numberLong": "1379423500"
+  },
+  "tLostRed": {
+    "$numberLong": "1362875000"
+  },
+  "totall": {
+    "$numberLong": "16548500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e4bbc115135d4cb8778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772db6"
+  },
+  "tRedPlay": {
+    "$numberLong": "3368400000"
+  },
+  "tWinRed": {
+    "$numberLong": "1758659000"
+  },
+  "tLostRed": {
+    "$numberLong": "1573850000"
+  },
+  "totall": {
+    "$numberLong": "184809000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e54bc115135d4cb8790",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dc2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2796450000"
+  },
+  "tWinRed": {
+    "$numberLong": "1511233500"
+  },
+  "tLostRed": {
+    "$numberLong": "1254375000"
+  },
+  "totall": {
+    "$numberLong": "256858500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e3abc115135d4cb8749",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dce"
+  },
+  "tRedPlay": {
+    "$numberLong": "2709300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1348994500"
+  },
+  "tLostRed": {
+    "$numberLong": "1332775000"
+  },
+  "totall": {
+    "$numberLong": "16219500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 8,
+  "first": 405,
+  "last": 407,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e44bc115135d4cb8765",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dda"
+  },
+  "tRedPlay": {
+    "$numberLong": "2776225000"
+  },
+  "tWinRed": {
+    "$numberLong": "1463728000"
+  },
+  "tLostRed": {
+    "$numberLong": "1282625000"
+  },
+  "totall": {
+    "$numberLong": "181103000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 402,
+  "last": 406,
+  "tLineWinRedH": 4,
+  "tLineLostRedH": 0,
+  "uid": "681e8e5abc115135d4cb87a0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772de6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2567375000"
+  },
+  "tWinRed": {
+    "$numberLong": "1279414500"
+  },
+  "tLostRed": {
+    "$numberLong": "1261850000"
+  },
+  "totall": {
+    "$numberLong": "17564500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e3fbc115135d4cb8757",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772df2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2773250000"
+  },
+  "tWinRed": {
+    "$numberLong": "1347426500"
+  },
+  "tLostRed": {
+    "$numberLong": "1398325000"
+  },
+  "totall": {
+    "$numberLong": "-50898500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 12,
+  "first": 400,
+  "last": 406,
+  "tLineWinRedH": 6,
+  "tLineLostRedH": 0,
+  "uid": "681e8e49bc115135d4cb8771",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dfe"
+  },
+  "tRedPlay": {
+    "$numberLong": "2866225000"
+  },
+  "tWinRed": {
+    "$numberLong": "1306536000"
+  },
+  "tLostRed": {
+    "$numberLong": "1533025000"
+  },
+  "totall": {
+    "$numberLong": "-226489000"
+  },
+  "tLineWinRed": 10,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e53bc115135d4cb878d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e0a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2671800000"
+  },
+  "tWinRed": {
+    "$numberLong": "1277479000"
+  },
+  "tLostRed": {
+    "$numberLong": "1368250000"
+  },
+  "totall": {
+    "$numberLong": "-90771000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e58bc115135d4cb879a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e16"
+  },
+  "tRedPlay": {
+    "$numberLong": "3212175000"
+  },
+  "tWinRed": {
+    "$numberLong": "1824637500"
+  },
+  "tLostRed": {
+    "$numberLong": "1350300000"
+  },
+  "totall": {
+    "$numberLong": "474337500"
+  },
+  "tLineWinRed": 15,
+  "tLineLostRed": 9,
+  "first": 402,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 5,
+  "uid": "681e8e3ebc115135d4cb8753",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e22"
+  },
+  "tRedPlay": {
+    "$numberLong": "2642000000"
+  },
+  "tWinRed": {
+    "$numberLong": "1368986500"
+  },
+  "tLostRed": {
+    "$numberLong": "1245075000"
+  },
+  "totall": {
+    "$numberLong": "123911500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 14,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e48bc115135d4cb876f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e2e"
+  },
+  "tRedPlay": {
+    "$numberLong": "3073800000"
+  },
+  "tWinRed": {
+    "$numberLong": "1537865000"
+  },
+  "tLostRed": {
+    "$numberLong": "1504550000"
+  },
+  "totall": {
+    "$numberLong": "33315000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3bbc115135d4cb874b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e3a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2572575000"
+  },
+  "tWinRed": {
+    "$numberLong": "1276327500"
+  },
+  "tLostRed": {
+    "$numberLong": "1270200000"
+  },
+  "totall": {
+    "$numberLong": "6127500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 8,
+  "first": 405,
+  "last": 406,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e44bc115135d4cb8763",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e46"
+  },
+  "tRedPlay": {
+    "$numberLong": "2972725000"
+  },
+  "tWinRed": {
+    "$numberLong": "1407696500"
+  },
+  "tLostRed": {
+    "$numberLong": "1536300000"
+  },
+  "totall": {
+    "$numberLong": "-128603500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 11,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4ebc115135d4cb877f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e52"
+  },
+  "tRedPlay": {
+    "$numberLong": "2881800000"
+  },
+  "tWinRed": {
+    "$numberLong": "1439473000"
+  },
+  "tLostRed": {
+    "$numberLong": "1412950000"
+  },
+  "totall": {
+    "$numberLong": "26523000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 9,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e58bc115135d4cb8799",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e5e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2907425000"
+  },
+  "tWinRed": {
+    "$numberLong": "1398876500"
+  },
+  "tLostRed": {
+    "$numberLong": "1480000000"
+  },
+  "totall": {
+    "$numberLong": "-81123500"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e53bc115135d4cb878c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e6a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2537075000"
+  },
+  "tWinRed": {
+    "$numberLong": "1182272000"
+  },
+  "tLostRed": {
+    "$numberLong": "1330675000"
+  },
+  "totall": {
+    "$numberLong": "-148403000"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e39bc115135d4cb8743",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e76"
+  },
+  "tRedPlay": {
+    "$numberLong": "2712550000"
+  },
+  "tWinRed": {
+    "$numberLong": "1479898000"
+  },
+  "tLostRed": {
+    "$numberLong": "1202450000"
+  },
+  "totall": {
+    "$numberLong": "277448000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e41bc115135d4cb875d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e82"
+  },
+  "tRedPlay": {
+    "$numberLong": "2891775000"
+  },
+  "tWinRed": {
+    "$numberLong": "1282526000"
+  },
+  "tLostRed": {
+    "$numberLong": "1583075000"
+  },
+  "totall": {
+    "$numberLong": "-300549000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4cbc115135d4cb8779",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e8e"
+  },
+  "tRedPlay": {
+    "$numberLong": "3091775000"
+  },
+  "tWinRed": {
+    "$numberLong": "1463434000"
+  },
+  "tLostRed": {
+    "$numberLong": "1598475000"
+  },
+  "totall": {
+    "$numberLong": "-135041000"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 6,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e42bc115135d4cb875f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e9a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2857700000"
+  },
+  "tWinRed": {
+    "$numberLong": "1544921000"
+  },
+  "tLostRed": {
+    "$numberLong": "1281250000"
+  },
+  "totall": {
+    "$numberLong": "263671000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 8,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 4,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4bbc115135d4cb8777",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ea6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2944550000"
+  },
+  "tWinRed": {
+    "$numberLong": "1416100000"
+  },
+  "tLostRed": {
+    "$numberLong": "1499550000"
+  },
+  "totall": {
+    "$numberLong": "-83450000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e55bc115135d4cb8793",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eb2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2713750000"
+  },
+  "tWinRed": {
+    "$numberLong": "1485557500"
+  },
+  "tLostRed": {
+    "$numberLong": "1197875000"
+  },
+  "totall": {
+    "$numberLong": "287682500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e3bbc115135d4cb874c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ebe"
+  },
+  "tRedPlay": {
+    "$numberLong": "2615125000"
+  },
+  "tWinRed": {
+    "$numberLong": "1410489500"
+  },
+  "tLostRed": {
+    "$numberLong": "1175850000"
+  },
+  "totall": {
+    "$numberLong": "234639500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e51bc115135d4cb8787",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eca"
+  },
+  "tRedPlay": {
+    "$numberLong": "2677650000"
+  },
+  "tWinRed": {
+    "$numberLong": "1452629500"
+  },
+  "tLostRed": {
+    "$numberLong": "1195375000"
+  },
+  "totall": {
+    "$numberLong": "257254500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e5abc115135d4cb879f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ed6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2587375000"
+  },
+  "tWinRed": {
+    "$numberLong": "1297961000"
+  },
+  "tLostRed": {
+    "$numberLong": "1262925000"
+  },
+  "totall": {
+    "$numberLong": "35036000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e40bc115135d4cb8758",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ee2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2780275000"
+  },
+  "tWinRed": {
+    "$numberLong": "1226862000"
+  },
+  "tLostRed": {
+    "$numberLong": "1528375000"
+  },
+  "totall": {
+    "$numberLong": "-301513000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4abc115135d4cb8774",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eee"
+  },
+  "tRedPlay": {
+    "$numberLong": "2510984581"
+  },
+  "tWinRed": {
+    "$numberLong": "1282207500"
+  },
+  "tLostRed": {
+    "$numberLong": "1202609581"
+  },
+  "totall": {
+    "$numberLong": "79597919"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e45bc115135d4cb8767",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772efa"
+  },
+  "tRedPlay": {
+    "$numberLong": "2727250000"
+  },
+  "tWinRed": {
+    "$numberLong": "1339366000"
+  },
+  "tLostRed": {
+    "$numberLong": "1360550000"
+  },
+  "totall": {
+    "$numberLong": "-21184000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 4,
+  "tLineLostRedH": 0,
+  "uid": "681e8e50bc115135d4cb8783",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f06"
+  },
+  "tRedPlay": {
+    "$numberLong": "3055300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1381432500"
+  },
+  "tLostRed": {
+    "$numberLong": "1645675000"
+  },
+  "totall": {
+    "$numberLong": "-264242500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 9,
+  "first": 406,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681e8e40bc115135d4cb875a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f12"
+  },
+  "tRedPlay": {
+    "$numberLong": "2533150000"
+  },
+  "tWinRed": {
+    "$numberLong": "1389860500"
+  },
+  "tLostRed": {
+    "$numberLong": "1114925000"
+  },
+  "totall": {
+    "$numberLong": "274935500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 11,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e49bc115135d4cb8772",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f1e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2676775000"
+  },
+  "tWinRed": {
+    "$numberLong": "1371044500"
+  },
+  "tLostRed": {
+    "$numberLong": "1277750000"
+  },
+  "totall": {
+    "$numberLong": "93294500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 7,
+  "first": 401,
+  "last": 408,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e54bc115135d4cb878e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f2a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2790750000"
+  },
+  "tWinRed": {
+    "$numberLong": "1312734500"
+  },
+  "tLostRed": {
+    "$numberLong": "1451225000"
+  },
+  "totall": {
+    "$numberLong": "-138490500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3abc115135d4cb8747",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f36"
+  },
+  "tRedPlay": {
+    "$numberLong": "3218400000"
+  },
+  "tWinRed": {
+    "$numberLong": "1634321500"
+  },
+  "tLostRed": {
+    "$numberLong": "1550725000"
+  },
+  "totall": {
+    "$numberLong": "83596500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 9,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 5,
+  "uid": "681e8e39bc115135d4cb8745",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f42"
+  },
+  "tRedPlay": {
+    "$numberLong": "3080400000"
+  },
+  "tWinRed": {
+    "$numberLong": "1368864000"
+  },
+  "tLostRed": {
+    "$numberLong": "1683600000"
+  },
+  "totall": {
+    "$numberLong": "-314736000"
+  },
+  "tLineWinRed": 12,
+  "tLineLostRed": 8,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e43bc115135d4cb8761",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f4e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2835275000"
+  },
+  "tWinRed": {
+    "$numberLong": "1603917000"
+  },
+  "tLostRed": {
+    "$numberLong": "1198625000"
+  },
+  "totall": {
+    "$numberLong": "405292000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4dbc115135d4cb877b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f5a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2925300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1587673500"
+  },
+  "tLostRed": {
+    "$numberLong": "1305225000"
+  },
+  "totall": {
+    "$numberLong": "282448500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 5,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 4,
+  "tLineLostRedH": 0,
+  "uid": "681e8e57bc115135d4cb8797",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f66"
+  },
+  "tRedPlay": {
+    "$numberLong": "2464375000"
+  },
+  "tWinRed": {
+    "$numberLong": "1316262500"
+  },
+  "tLostRed": {
+    "$numberLong": "1121250000"
+  },
+  "totall": {
+    "$numberLong": "195012500"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 6,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e3ebc115135d4cb8755",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f72"
+  },
+  "tRedPlay": {
+    "$numberLong": "2697675000"
+  },
+  "tWinRed": {
+    "$numberLong": "1171100000"
+  },
+  "tLostRed": {
+    "$numberLong": "1502675000"
+  },
+  "totall": {
+    "$numberLong": "-331575000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e47bc115135d4cb876d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f7e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2937325000"
+  },
+  "tWinRed": {
+    "$numberLong": "1316262500"
+  },
+  "tLostRed": {
+    "$numberLong": "1594200000"
+  },
+  "totall": {
+    "$numberLong": "-277937500"
+  },
+  "tLineWinRed": 12,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e52bc115135d4cb8789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f8a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2930300000"
+  },
+  "tWinRed": {
+    "$numberLong": "1474557000"
+  },
+  "tLostRed": {
+    "$numberLong": "1425650000"
+  },
+  "totall": {
+    "$numberLong": "48907000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e39bc115135d4cb8742",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f96"
+  },
+  "tRedPlay": {
+    "$numberLong": "2556400000"
+  },
+  "tWinRed": {
+    "$numberLong": "1316703500"
+  },
+  "tLostRed": {
+    "$numberLong": "1212825000"
+  },
+  "totall": {
+    "$numberLong": "103878500"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 7,
+  "first": 398,
+  "last": 408,
+  "tLineWinRedH": 7,
+  "tLineLostRedH": 0,
+  "uid": "681e8e43bc115135d4cb8760",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fa2"
+  },
+  "tRedPlay": {
+    "$numberLong": "3091825000"
+  },
+  "tWinRed": {
+    "$numberLong": "1425851000"
+  },
+  "tLostRed": {
+    "$numberLong": "1636875000"
+  },
+  "totall": {
+    "$numberLong": "-211024000"
+  },
+  "tLineWinRed": 7,
+  "tLineLostRed": 6,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 2,
+  "tLineLostRedH": 0,
+  "uid": "681e8e39bc115135d4cb8746",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fae"
+  },
+  "tRedPlay": {
+    "$numberLong": "2701100000"
+  },
+  "tWinRed": {
+    "$numberLong": "1445916500"
+  },
+  "tLostRed": {
+    "$numberLong": "1225675000"
+  },
+  "totall": {
+    "$numberLong": "220241500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e42bc115135d4cb875e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fba"
+  },
+  "tRedPlay": {
+    "$numberLong": "2791000000"
+  },
+  "tWinRed": {
+    "$numberLong": "1152774000"
+  },
+  "tLostRed": {
+    "$numberLong": "1614700000"
+  },
+  "totall": {
+    "$numberLong": "-461926000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 405,
+  "last": 408,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4cbc115135d4cb877a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fc6"
+  },
+  "tRedPlay": {
+    "$numberLong": "3162800000"
+  },
+  "tWinRed": {
+    "$numberLong": "1603794500"
+  },
+  "tLostRed": {
+    "$numberLong": "1526275000"
+  },
+  "totall": {
+    "$numberLong": "77519500"
+  },
+  "tLineWinRed": 11,
+  "tLineLostRed": 8,
+  "first": 406,
+  "last": 406,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e56bc115135d4cb8794",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fd2"
+  },
+  "tRedPlay": {
+    "$numberLong": "2585825000"
+  },
+  "tWinRed": {
+    "$numberLong": "1055680500"
+  },
+  "tLostRed": {
+    "$numberLong": "1508600000"
+  },
+  "totall": {
+    "$numberLong": "-452919500"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 6,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e48bc115135d4cb876e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fde"
+  },
+  "tRedPlay": {
+    "$numberLong": "2775625000"
+  },
+  "tWinRed": {
+    "$numberLong": "1256115000"
+  },
+  "tLostRed": {
+    "$numberLong": "1493875000"
+  },
+  "totall": {
+    "$numberLong": "-237760000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 11,
+  "first": 404,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 4,
+  "uid": "681e8e51bc115135d4cb8786",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fea"
+  },
+  "tRedPlay": {
+    "$numberLong": "2673450000"
+  },
+  "tWinRed": {
+    "$numberLong": "1379105000"
+  },
+  "tLostRed": {
+    "$numberLong": "1266200000"
+  },
+  "totall": {
+    "$numberLong": "112905000"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 10,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e38bc115135d4cb873f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ff6"
+  },
+  "tRedPlay": {
+    "$numberLong": "2741600000"
+  },
+  "tWinRed": {
+    "$numberLong": "1280272000"
+  },
+  "tLostRed": {
+    "$numberLong": "1435200000"
+  },
+  "totall": {
+    "$numberLong": "-154928000"
+  },
+  "tLineWinRed": 5,
+  "tLineLostRed": 7,
+  "first": 404,
+  "last": 406,
+  "tLineWinRedH": 3,
+  "tLineLostRedH": 0,
+  "uid": "681e8e41bc115135d4cb875b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773002"
+  },
+  "tRedPlay": {
+    "$numberLong": "3096800000"
+  },
+  "tWinRed": {
+    "$numberLong": "1469387500"
+  },
+  "tLostRed": {
+    "$numberLong": "1597425000"
+  },
+  "totall": {
+    "$numberLong": "-128037500"
+  },
+  "tLineWinRed": 10,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 1,
+  "tLineLostRedH": 0,
+  "uid": "681e8e4ebc115135d4cb877e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b107877300e"
+  },
+  "tRedPlay": {
+    "$numberLong": "2997250000"
+  },
+  "tWinRed": {
+    "$numberLong": "1460347000"
+  },
+  "tLostRed": {
+    "$numberLong": "1507100000"
+  },
+  "totall": {
+    "$numberLong": "-46753000"
+  },
+  "tLineWinRed": 11,
+  "tLineLostRed": 9,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e48bc115135d4cb8770",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b107877301a"
+  },
+  "tRedPlay": {
+    "$numberLong": "2828450000"
+  },
+  "tWinRed": {
+    "$numberLong": "1415561000"
+  },
+  "tLostRed": {
+    "$numberLong": "1384000000"
+  },
+  "totall": {
+    "$numberLong": "31561000"
+  },
+  "tLineWinRed": 9,
+  "tLineLostRed": 8,
+  "first": 407,
+  "last": 407,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e52bc115135d4cb878a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773026"
+  },
+  "tRedPlay": {
+    "$numberLong": "2915175000"
+  },
+  "tWinRed": {
+    "$numberLong": "1469069000"
+  },
+  "tLostRed": {
+    "$numberLong": "1416125000"
+  },
+  "totall": {
+    "$numberLong": "52944000"
+  },
+  "tLineWinRed": 8,
+  "tLineLostRed": 7,
+  "first": 408,
+  "last": 408,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 1,
+  "uid": "681e8e5bbc115135d4cb87a1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ed5d42d52453c787eaf17"
+  },
+  "tRedPlay": {
+    "$numberLong": "3869927778"
+  },
+  "tWinRed": {
+    "$numberLong": "863779015"
+  },
+  "tLostRed": {
+    "$numberLong": "2988520618"
+  },
+  "totall": {
+    "$numberLong": "-2124741603"
+  },
+  "tLineWinRed": 6,
+  "tLineLostRed": 3,
+  "first": 399,
+  "last": 418,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681edc39264037351ce6fa9f"
+  },
+  "tRedPlay": {
+    "$numberLong": "0"
+  },
+  "tWinRed": {
+    "$numberLong": "0"
+  },
+  "tLostRed": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "tLineWinRed": 0,
+  "tLineLostRed": 0,
+  "first": 0,
+  "last": 0,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 0,
+  "uid": "681edc35264037351ce6fa9a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f54c24314800dd054cf7d"
+  },
+  "tRedPlay": {
+    "$numberLong": "60000"
+  },
+  "tWinRed": {
+    "$numberLong": "0"
+  },
+  "tLostRed": {
+    "$numberLong": "60000"
+  },
+  "totall": {
+    "$numberLong": "-60000"
+  },
+  "tLineWinRed": 0,
+  "tLineLostRed": 2,
+  "first": 286,
+  "last": 410,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 2,
+  "uid": "681f54c04314800dd054cf78",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820e4eaef27f2351cda7fab"
+  },
+  "tRedPlay": {
+    "$numberLong": "0"
+  },
+  "tWinRed": {
+    "$numberLong": "0"
+  },
+  "tLostRed": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "tLineWinRed": 0,
+  "tLineLostRed": 0,
+  "first": 0,
+  "last": 0,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 0,
+  "uid": "6820e4e6ef27f2351cda7f10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821e7e49e88e91268959e64"
+  },
+  "tRedPlay": {
+    "$numberLong": "0"
+  },
+  "tWinRed": {
+    "$numberLong": "0"
+  },
+  "tLostRed": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "tLineWinRed": 0,
+  "tLineLostRed": 0,
+  "first": 0,
+  "last": 0,
+  "tLineWinRedH": 0,
+  "tLineLostRedH": 0,
+  "uid": "6821e7dd9e88e91268959a06",
+  "__v": 0
+}]

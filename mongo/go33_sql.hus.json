@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126eb"
+  },
+  "name": "",
+  "bet": 529820,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "20000"
+  },
+  "redWin": {
+    "$numberLong": "1520"
+  },
+  "redLost": {
+    "$numberLong": "8840"
+  },
+  "game": "bigbabol",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f2"
+  },
+  "name": "",
+  "bet": 5191875,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "Zeus",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ef"
+  },
+  "name": "",
+  "bet": 7010,
+  "min": 7000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "caothap",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f7"
+  },
+  "name": "",
+  "bet": 50764000,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "200000"
+  },
+  "redWin": {
+    "$numberLong": "49935160"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "bigbabol",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126fc"
+  },
+  "name": "",
+  "bet": 51282500,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "9500000"
+  },
+  "redWin": {
+    "$numberLong": "58666325"
+  },
+  "redLost": {
+    "$numberLong": "2000000"
+  },
+  "game": "Zeus",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f9"
+  },
+  "name": "",
+  "bet": 70000,
+  "min": 70000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "caothap",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12701"
+  },
+  "name": "",
+  "bet": 611312,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "Zeus",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126fe"
+  },
+  "name": "",
+  "bet": 25000000,
+  "min": 25000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "mini3cay",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12706"
+  },
+  "name": "",
+  "bet": 6507800,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "vuongquocred",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12708"
+  },
+  "name": "",
+  "bet": 700000,
+  "min": 700000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "caothap",
+  "type": 100000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270b"
+  },
+  "name": "",
+  "bet": 50000000,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "megaj",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12710"
+  },
+  "name": "",
+  "bet": 350000,
+  "min": 350000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "caothap",
+  "type": 50000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12712"
+  },
+  "name": "",
+  "bet": 6557625,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "long",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ea"
+  },
+  "name": "",
+  "bet": 757348,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "74100"
+  },
+  "redWin": {
+    "$numberLong": "39550"
+  },
+  "redLost": {
+    "$numberLong": "60700"
+  },
+  "game": "minipoker",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ee"
+  },
+  "name": "",
+  "bet": 5039600,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "10680000"
+  },
+  "redWin": {
+    "$numberLong": "835200"
+  },
+  "redLost": {
+    "$numberLong": "5588000"
+  },
+  "game": "bigbabol",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ed"
+  },
+  "name": "",
+  "bet": 50333400,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 2,
+  "redPlay": {
+    "$numberLong": "50000"
+  },
+  "redWin": {
+    "$numberLong": "99982342"
+  },
+  "redLost": {
+    "$numberLong": "20000"
+  },
+  "game": "minipoker",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f1"
+  },
+  "name": "",
+  "bet": 50562000,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "200000"
+  },
+  "redWin": {
+    "$numberLong": "54155560"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "candy",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126fb"
+  },
+  "name": "",
+  "bet": 521996,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "long",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12700"
+  },
+  "name": "",
+  "bet": 6537300,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "candy",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270a"
+  },
+  "name": "",
+  "bet": 50705000,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "250000"
+  },
+  "redWin": {
+    "$numberLong": "53014325"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "long",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270f"
+  },
+  "name": "",
+  "bet": 250000,
+  "min": 250000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "mini3cay",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ec"
+  },
+  "name": "",
+  "bet": 5936750,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "minipoker",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f0"
+  },
+  "name": "",
+  "bet": 502127,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "100"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "100"
+  },
+  "game": "arb",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126fa"
+  },
+  "name": "",
+  "bet": 5002340,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "arb",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126ff"
+  },
+  "name": "",
+  "bet": 3510000,
+  "min": 3500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "caothap",
+  "type": 500000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12709"
+  },
+  "name": "",
+  "bet": 924050,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "2000"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "2000"
+  },
+  "game": "candy",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12713"
+  },
+  "name": "",
+  "bet": 5000000,
+  "min": 5000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "megaj",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f8"
+  },
+  "name": "",
+  "bet": 50563000,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "400000"
+  },
+  "redWin": {
+    "$numberLong": "50698260"
+  },
+  "redLost": {
+    "$numberLong": "40000"
+  },
+  "game": "vuongquocred",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126fd"
+  },
+  "name": "",
+  "bet": 583850,
+  "min": 500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "vuongquocred",
+  "type": 100,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12702"
+  },
+  "name": "",
+  "bet": 200000000,
+  "min": 200000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "megaj",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12707"
+  },
+  "name": "",
+  "bet": 2500000,
+  "min": 2500000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 0,
+  "redPlay": {
+    "$numberLong": "0"
+  },
+  "redWin": {
+    "$numberLong": "0"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "mini3cay",
+  "type": 1000,
+  "red": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12711"
+  },
+  "name": "",
+  "bet": 50001700,
+  "min": 50000000,
+  "toX": 0,
+  "balans": 0,
+  "x": 0,
+  "hu": 1,
+  "redPlay": {
+    "$numberLong": "10000"
+  },
+  "redWin": {
+    "$numberLong": "49308206"
+  },
+  "redLost": {
+    "$numberLong": "0"
+  },
+  "game": "arb",
+  "type": 10000,
+  "red": true,
+  "__v": 0
+}]

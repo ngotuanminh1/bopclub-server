@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "681e8e0c06251d0438d12732"
+  },
+  "read": false,
+  "uid": "681e8e0306251d0438d12720",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-09T23:21:48.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ed5d42d52453c787eaf24"
+  },
+  "read": false,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-10T04:28:04.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681edc39264037351ce6faac"
+  },
+  "read": false,
+  "uid": "681edc35264037351ce6fa9a",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-10T04:55:21.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f54c24314800dd054cf8a"
+  },
+  "read": false,
+  "uid": "681f54c04314800dd054cf78",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-10T13:29:38.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820e4eaef27f2351cda7fb8"
+  },
+  "read": false,
+  "uid": "6820e4e6ef27f2351cda7f10",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-11T17:56:58.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821e7e49e88e91268959e71"
+  },
+  "read": false,
+  "uid": "6821e7dd9e88e91268959a06",
+  "title": "Thành Viên Mới",
+  "text": "Chào mừng bạn đến với GO68 - Cổng game hàng đầu Châu Á, chúc bạn chơi game vui vẻ, thắng lớn...",
+  "time": {
+    "$date": "2025-05-12T12:21:56.950Z"
+  },
+  "__v": 0
+}]

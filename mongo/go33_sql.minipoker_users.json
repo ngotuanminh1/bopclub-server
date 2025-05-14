@@ -1,0 +1,2496 @@
+[{
+  "_id": {
+    "$oid": "681e8e0c06251d0438d12726"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e0306251d0438d12720",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772b9b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4fbc115135d4cb8782",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ba7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3dbc115135d4cb8750",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bb3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3ebc115135d4cb8754",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bbf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e50bc115135d4cb8784",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bcb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e5abc115135d4cb879e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bd7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e57bc115135d4cb8796",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772be3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3bbc115135d4cb874d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bef"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e46bc115135d4cb8769",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772bfb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4fbc115135d4cb8781",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c07"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e59bc115135d4cb879d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c13"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3fbc115135d4cb8756",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c1f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3abc115135d4cb874a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c2b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e45bc115135d4cb8766",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c37"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4ebc115135d4cb8780",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c43"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e59bc115135d4cb879c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c4f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4abc115135d4cb8773",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c5b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e53bc115135d4cb878b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c67"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e39bc115135d4cb8744",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c73"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3cbc115135d4cb874f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c7f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e47bc115135d4cb876b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c8b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e50bc115135d4cb8785",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772c97"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4dbc115135d4cb877d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ca3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e56bc115135d4cb8795",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772caf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3cbc115135d4cb874e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cbb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e46bc115135d4cb876a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cc7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e38bc115135d4cb8741",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cd3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e40bc115135d4cb8759",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cdf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4abc115135d4cb8775",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ceb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e54bc115135d4cb878f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772cf7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e55bc115135d4cb8791",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d03"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3abc115135d4cb8748",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d0f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e43bc115135d4cb8762",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d1b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e58bc115135d4cb879b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d27"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3dbc115135d4cb8752",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d33"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e47bc115135d4cb876c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d3f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e51bc115135d4cb8788",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d4b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e44bc115135d4cb8764",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d57"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4dbc115135d4cb877c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d63"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e57bc115135d4cb8798",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d6f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3dbc115135d4cb8751",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d7b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e38bc115135d4cb8740",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d87"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e41bc115135d4cb875c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d93"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4bbc115135d4cb8776",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772d9f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e55bc115135d4cb8792",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dab"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4bbc115135d4cb8778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772db7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e54bc115135d4cb8790",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dc3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3abc115135d4cb8749",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dcf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e44bc115135d4cb8765",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ddb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e5abc115135d4cb87a0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772de7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3fbc115135d4cb8757",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772df3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e49bc115135d4cb8771",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772dff"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e53bc115135d4cb878d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e0b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e58bc115135d4cb879a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e17"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3ebc115135d4cb8753",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e23"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e48bc115135d4cb876f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e2f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3bbc115135d4cb874b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e3b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e44bc115135d4cb8763",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e47"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4ebc115135d4cb877f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e53"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e58bc115135d4cb8799",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e5f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e53bc115135d4cb878c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e6b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e39bc115135d4cb8743",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e77"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e41bc115135d4cb875d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e83"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4cbc115135d4cb8779",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e8f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e42bc115135d4cb875f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772e9b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4bbc115135d4cb8777",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ea7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e55bc115135d4cb8793",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eb3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3bbc115135d4cb874c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ebf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e51bc115135d4cb8787",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ecb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e5abc115135d4cb879f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ed7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e40bc115135d4cb8758",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ee3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4abc115135d4cb8774",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772eef"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e45bc115135d4cb8767",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772efb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e50bc115135d4cb8783",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f07"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e40bc115135d4cb875a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f13"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e49bc115135d4cb8772",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f1f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e54bc115135d4cb878e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f2b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3abc115135d4cb8747",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f37"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e39bc115135d4cb8745",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f43"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e43bc115135d4cb8761",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f4f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4dbc115135d4cb877b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f5b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e57bc115135d4cb8797",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f67"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e3ebc115135d4cb8755",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f73"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e47bc115135d4cb876d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f7f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e52bc115135d4cb8789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f8b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e39bc115135d4cb8742",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772f97"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e43bc115135d4cb8760",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fa3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e39bc115135d4cb8746",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772faf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e42bc115135d4cb875e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fbb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4cbc115135d4cb877a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fc7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e56bc115135d4cb8794",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fd3"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e48bc115135d4cb876e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772fdf"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e51bc115135d4cb8786",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772feb"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e38bc115135d4cb873f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7ebedf6b1078772ff7"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e41bc115135d4cb875b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773003"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e4ebc115135d4cb877e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b107877300f"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e48bc115135d4cb8770",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b107877301b"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e52bc115135d4cb878a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e7fbedf6b1078773027"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681e8e5bbc115135d4cb87a1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ed5d42d52453c787eaf18"
+  },
+  "hu": 1,
+  "bet": {
+    "$numberLong": "114100"
+  },
+  "win": {
+    "$numberLong": "49577964"
+  },
+  "lost": {
+    "$numberLong": "80700"
+  },
+  "totall": {
+    "$numberLong": "49497264"
+  },
+  "time": {
+    "$numberLong": "1746986297582"
+  },
+  "select": 10000,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681edc39264037351ce6faa0"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "681edc35264037351ce6fa9a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f54c24314800dd054cf7e"
+  },
+  "hu": 1,
+  "bet": {
+    "$numberLong": "10000"
+  },
+  "win": {
+    "$numberLong": "50443928"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "50443928"
+  },
+  "time": {
+    "$numberLong": "1746899959986"
+  },
+  "select": 10000,
+  "uid": "681f54c04314800dd054cf78",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820e4eaef27f2351cda7fac"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "6820e4e6ef27f2351cda7f10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821e7e49e88e91268959e65"
+  },
+  "hu": 0,
+  "bet": {
+    "$numberLong": "0"
+  },
+  "win": {
+    "$numberLong": "0"
+  },
+  "lost": {
+    "$numberLong": "0"
+  },
+  "totall": {
+    "$numberLong": "0"
+  },
+  "time": {
+    "$numberLong": "0"
+  },
+  "select": 0,
+  "uid": "6821e7dd9e88e91268959a06",
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126e9"
+  },
+  "rights": 9,
+  "fail": 0,
+  "username": "admin",
+  "password": "$2b$12$2LUbP8fVRvoZHooal6Jfs.PwDNKL.n98H0oOCZkPufWHaG9pdmhpq",
+  "regDate": {
+    "$date": "2025-05-09T23:20:14.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3cadfcc03738e9cf6b"
+  },
+  "rights": 9,
+  "fail": 0,
+  "username": "kvcpro",
+  "password": "$2b$12$EbYSxqrTafl.j8vEdcN01.GJ70ZrWOCFhg7NjmKLe5wvqPo7C3Dlm",
+  "regDate": {
+    "$date": "2025-05-09T23:22:36.776Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "681ee09d54433e37f8f2e1a7"
+  },
+  "number": "2362123221",
+  "name": "tuan anh nguyen",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 1,
+  "info": "",
+  "namego": "",
+  "status": 2,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "mbb ",
+  "money": {
+    "$numberLong": "500000"
+  },
+  "time": {
+    "$date": "2025-05-10T05:14:05.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ee11b54433e37f8f2e43f"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "123334455"
+  },
+  "time": {
+    "$date": "2025-05-10T05:16:11.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb72aea46cb1558e60c6c"
+  },
+  "number": "1235468461",
+  "name": "nguyen anh",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 1,
+  "info": "",
+  "namego": "",
+  "status": 2,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "mb bank",
+  "money": {
+    "$numberLong": "124000000"
+  },
+  "time": {
+    "$date": "2025-05-10T20:29:30.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb7c9ea46cb1558e60f76"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "1000000"
+  },
+  "time": {
+    "$date": "2025-05-10T20:32:09.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb860ea46cb1558e6121d"
+  },
+  "number": "5555556444",
+  "name": "nguyen lan anh",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 1,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "mb bank",
+  "money": {
+    "$numberLong": "100000000"
+  },
+  "time": {
+    "$date": "2025-05-10T20:34:40.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb8acea46cb1558e61385"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "1410065408"
+  },
+  "time": {
+    "$date": "2025-05-10T20:35:56.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb906ea46cb1558e61595"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "100000000"
+  },
+  "time": {
+    "$date": "2025-05-10T20:37:26.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fb9d1ea46cb1558e618c9"
+  },
+  "number": "156156156",
+  "name": "ngo anh tuan",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 1,
+  "info": "",
+  "namego": "",
+  "status": 2,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "mb bank",
+  "money": {
+    "$numberLong": "198000000"
+  },
+  "time": {
+    "$date": "2025-05-10T20:40:49.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f5ae44224624060a992e0"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681e8e0306251d0438d12720",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "10000000"
+  },
+  "time": {
+    "$date": "2025-05-10T13:55:48.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f6a528c37cf4f9032a0fd"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "35000000"
+  },
+  "time": {
+    "$date": "2025-05-10T15:01:38.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f7b884afde9359c557c92"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 0,
+  "uid": "681e8e0306251d0438d12720",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "111111"
+  },
+  "time": {
+    "$date": "2025-05-10T16:15:04.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f93cbe534cf03ec78e8bf"
+  },
+  "number": "",
+  "name": "",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 0,
+  "info": "",
+  "namego": "",
+  "status": 1,
+  "uid": "681f54c04314800dd054cf78",
+  "bank": "....................",
+  "money": {
+    "$numberLong": "1000000"
+  },
+  "time": {
+    "$date": "2025-05-10T17:58:35.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68207998684f683d44ec5475"
+  },
+  "number": "8233339555",
+  "name": "nguyen van toan ",
+  "branch": "",
+  "hinhthuc": 1,
+  "type": 1,
+  "info": "",
+  "namego": "",
+  "status": 0,
+  "uid": "681ed5ca2d52453c787eaf14",
+  "bank": "techcombank",
+  "money": {
+    "$numberLong": "80000000"
+  },
+  "time": {
+    "$date": "2025-05-11T10:19:04.372Z"
+  },
+  "__v": 0
+}]

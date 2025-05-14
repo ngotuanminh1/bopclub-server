@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f4"
+  },
+  "c": 0,
+  "f": "GD",
+  "m": "MuaThe"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12703"
+  },
+  "c": 0,
+  "f": "id",
+  "m": "ChuyenRed"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270d"
+  },
+  "c": 686,
+  "f": "id",
+  "m": "BigBabol_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12715"
+  },
+  "c": 0,
+  "f": "id",
+  "m": "Mini3Cay_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12718"
+  },
+  "c": 2,
+  "f": "id",
+  "m": "Candy_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f6"
+  },
+  "c": 488,
+  "f": "id",
+  "m": "BauCua_phien"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12705"
+  },
+  "c": 453,
+  "f": "id",
+  "m": "TaiXiu_phien"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12714"
+  },
+  "c": 810,
+  "f": "id",
+  "m": "XocXoc_phien"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12717"
+  },
+  "c": 746,
+  "f": "id",
+  "m": "mPoker_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d126f5"
+  },
+  "c": 8,
+  "f": "id",
+  "m": "VuongQuocRed_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12704"
+  },
+  "c": 98,
+  "f": "id",
+  "m": "AngryBirds_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270e"
+  },
+  "c": 52,
+  "f": "id",
+  "m": "Zeus_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d1270c"
+  },
+  "c": 105,
+  "f": "UID",
+  "m": "UserInfo"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12716"
+  },
+  "c": 7,
+  "f": "id",
+  "m": "LongLan_red"
+},
+{
+  "_id": {
+    "$oid": "681e8dae06251d0438d12719"
+  },
+  "c": 3,
+  "f": "id",
+  "m": "CaoThap_red"
+}]

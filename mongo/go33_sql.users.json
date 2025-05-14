@@ -1,0 +1,1774 @@
+[{
+  "_id": {
+    "$oid": "681e8e0306251d0438d12720"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "zxczxc",
+    "password": "$2b$12$vavDkXNWAwbKvcaVVq4GW.S1zX2LOl2RUY7IF6HEqd5nQ/SKtlpiK",
+    "regDate": {
+      "$date": "2025-05-09T23:21:39.847Z"
+    },
+    "token": ""
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e38bc115135d4cb873f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietanh_bot",
+    "password": "$2b$12$1lFAutFRFQL8SDecse4MveujzxMAbgRR2Yj7OFG6QPcAmPqNFSM1u",
+    "regDate": {
+      "$date": "2023-05-24T01:46:34.214Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e38bc115135d4cb8740"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "anco_bot",
+    "password": "$2b$12$wX3ZCM9pxxSgzIBsVFAetOMAsziW5/9EyHJEgCD9G5LDV43pcTkU2",
+    "regDate": {
+      "$date": "2021-10-15T06:30:21.874Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e38bc115135d4cb8741"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "binhdat_bot",
+    "password": "$2b$12$5oLUoq1KysDKn/jfFUVQO.GSPwYL7E34Ga7ggnHkp.hVwnwhfyNZ2",
+    "regDate": {
+      "$date": "2022-05-13T03:06:12.932Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e39bc115135d4cb8742"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dongduong_bot",
+    "password": "$2b$12$dnWhDIIGpf6f9OKA5o04WudUtIDO2GqC4SjHtyikgd6J8ZbRK96/6",
+    "regDate": {
+      "$date": "2022-08-16T19:25:11.457Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e39bc115135d4cb8743"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dangkhanh_bot",
+    "password": "$2b$12$u8sqr8NmYYOCoxNAKrs7uuGd3P6M6D2GD63NftrfF2bMCUtlNna4W",
+    "regDate": {
+      "$date": "2024-11-16T16:15:59.155Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e39bc115135d4cb8744"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "duchai_bot",
+    "password": "$2b$12$wc4UzfeAX5WZkHGVhNkQi.14WHXMW67OPufS8gL7yZLn13YsMV0We",
+    "regDate": {
+      "$date": "2022-11-05T00:10:39.417Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e39bc115135d4cb8745"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "nghiahoa_bot",
+    "password": "$2b$12$8OwT9oFUJprD0AmVTeC0cOlQELUZFYKPO48.y6S9FZcnWPvS8hKS.",
+    "regDate": {
+      "$date": "2022-05-30T12:42:47.246Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e39bc115135d4cb8746"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "huuhung_bot",
+    "password": "$2b$12$ALDm1T5/E6QXeUtpeYFbQu22fnmuMZGFSwYrDg8sLALmsTu1Rxxc6",
+    "regDate": {
+      "$date": "2021-06-29T01:26:05.754Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3abc115135d4cb8747"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thanhhuy_bot",
+    "password": "$2b$12$cNprubjlIYRUaEoFSzbzr.VHbBa8Fa0oSQjBBGYblsiWbJ3ZFQ.1.",
+    "regDate": {
+      "$date": "2022-05-02T20:53:58.869Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3abc115135d4cb8748"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thanhloi_bot",
+    "password": "$2b$12$6A5agliB.Jw6FrzpWqQCVuBJTgConS76oAqgjGwlsQb45/msrminS",
+    "regDate": {
+      "$date": "2023-10-25T22:23:20.697Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3abc115135d4cb8749"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "duyminh_bot",
+    "password": "$2b$12$ZhBA5YuZYoWTLxHezj7pSOjMTZrFJYEgWqOwHlgXAshrZEZ47447i",
+    "regDate": {
+      "$date": "2022-02-01T22:21:34.545Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3abc115135d4cb874a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dongnguyen_bot",
+    "password": "$2b$12$E3xrfAlmMuZfFINR/RY4IeymNZelKdbQiqRGe2xEv.dNCk4qn1m3e",
+    "regDate": {
+      "$date": "2021-11-20T03:28:28.329Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3bbc115135d4cb874b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "chephuong_bot",
+    "password": "$2b$12$hbc78uOxCpzgYJZLtadL3Oon40WLDcJQhLDJerX6vgK.wphd0dOLy",
+    "regDate": {
+      "$date": "2022-08-20T06:16:43.077Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3bbc115135d4cb874c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "manhquynh_bot",
+    "password": "$2b$12$FinzZLzoNzGI66IHaobAz.L/UlspwY4j/OHnnnvYtbYaK9x/UxcEG",
+    "regDate": {
+      "$date": "2021-04-28T03:14:45.934Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3bbc115135d4cb874d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thientam_bot",
+    "password": "$2b$12$kBq.jAE8y5DjGypJsVpiueMtd0F/xn5N/JuQDcuBGvuaPDYR2TIae",
+    "regDate": {
+      "$date": "2022-08-09T20:21:22.716Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3cbc115135d4cb874e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "anhtu_bot",
+    "password": "$2b$12$pBxTq7YNlsREgVsHkcoeUePE9lGlFuVgNx6d6c17HhSpxqOl.mMMS",
+    "regDate": {
+      "$date": "2021-03-07T05:40:53.781Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3cbc115135d4cb874f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "huytuong_bot",
+    "password": "$2b$12$pte5hSpjhsyyeapxKJxv1.tmmn/EagMWtdM8.mJIAH7cBreAdyP3i",
+    "regDate": {
+      "$date": "2022-09-11T21:29:42.558Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3dbc115135d4cb8750"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "trieuthanh_bot",
+    "password": "$2b$12$u1kx.liRYYSWx8V6CbWOa.ith0SM128skkgwkHkkEqEonNU/hRgY.",
+    "regDate": {
+      "$date": "2022-06-27T16:08:32.891Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3dbc115135d4cb8751"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "phucthinh_bot",
+    "password": "$2b$12$.UXAykkmUDZ6bJmiHobPXeyPE8NZZt5FMZZjVzzzI4Czsg/tkWjOe",
+    "regDate": {
+      "$date": "2022-09-04T10:18:00.391Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3dbc115135d4cb8752"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "giaanh_bot",
+    "password": "$2b$12$3XoDobpl6FzfO8uotNvg4eXnFcLupDEGQT/jSrAMTFFpJaKWs0iBK",
+    "regDate": {
+      "$date": "2024-07-22T14:06:39.665Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3ebc115135d4cb8753"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "minhchuyen_bot",
+    "password": "$2b$12$wa875yPKXJLKHeLXmApDa.HBTo3hpORmfcvRRPvWWtZLci7yC.GT.",
+    "regDate": {
+      "$date": "2022-06-25T18:50:53.716Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3ebc115135d4cb8754"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietcuong_bot",
+    "password": "$2b$12$3Fm8JANR85Ebye.pPvr9r.NOY/95lyWi8r0F6uWHKXWcMTqHE598W",
+    "regDate": {
+      "$date": "2021-06-18T10:38:14.581Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3ebc115135d4cb8755"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "daiduong_bot",
+    "password": "$2b$12$5iUEpT3D086zHOoLypZxKeaxuEY0iEZHNDqEgpRgrL4pDNcskXig6",
+    "regDate": {
+      "$date": "2021-03-28T16:07:56.972Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3fbc115135d4cb8756"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "tankhang_bot",
+    "password": "$2b$12$I9YSJto7Tb.nQjXoQi7PMeh6tzb0.XFnTzGQI/VjBEW5GC8p08MNS",
+    "regDate": {
+      "$date": "2021-05-11T13:17:23.949Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e3fbc115135d4cb8757"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dangkhuong_bot",
+    "password": "$2b$12$IW3R1c1v1juSLM8ae/Zq/OfWjDpikVweGBAZshnBwPvPQI6uy.ULO",
+    "regDate": {
+      "$date": "2024-10-07T00:08:46.297Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e40bc115135d4cb8758"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "chihieu_bot",
+    "password": "$2b$12$ZDCPDA0CGftDS5XaYFpuCerjlCMOEeQ0UPjQG3mCEujkMmVuQ5VlO",
+    "regDate": {
+      "$date": "2021-11-19T03:03:49.008Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e40bc115135d4cb8759"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "hoahop_bot",
+    "password": "$2b$12$hEZ8BOrZkBKvpvf.ULHa1OonHRomdkSDZ6aj.f9EyHjBtwYqT0SYa",
+    "regDate": {
+      "$date": "2023-04-25T13:06:19.230Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e40bc115135d4cb875a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quochuy_bot",
+    "password": "$2b$12$7oLfmVFdQN1MKbQRKK5EAeDdmjZ3mfZoFEyCMEyKxk3kYLlaW/mgW",
+    "regDate": {
+      "$date": "2023-02-06T15:59:50.378Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e41bc115135d4cb875b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "phuocloc_bot",
+    "password": "$2b$12$EcwKVFJy829ENBLZMs3PZOVMxfBG3YBucRfwnBeV0wF/Nb/spWCHW",
+    "regDate": {
+      "$date": "2024-09-30T16:30:48.509Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e41bc115135d4cb875c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thienluong_bot",
+    "password": "$2b$12$TRTN1SYQkZxIEntztRgG0eEO4Jr/8eeX9naNWopT7Ziz84SW9xa0a",
+    "regDate": {
+      "$date": "2022-11-10T07:09:28.986Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e41bc115135d4cb875d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "giangnam_bot",
+    "password": "$2b$12$8xXxFGOfAA4qPV5qKwbSE.NNgOMPeFCu75YKeY8NPu6pPsvvFuBqu",
+    "regDate": {
+      "$date": "2021-07-07T15:07:45.015Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e42bc115135d4cb875e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "giaphuoc_bot",
+    "password": "$2b$12$2BLO5tbXk/4be6VmjlbVG.0I.DBqRyqLY3P8zHiGel6ZS4LA2pI9u",
+    "regDate": {
+      "$date": "2023-05-02T22:58:09.170Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e42bc115135d4cb875f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ducquang_bot",
+    "password": "$2b$12$noaPA//RYd5uXyWcL/kgTOrm/H1ix9yuQ81nBWdMeRRSoV/3HpWjC",
+    "regDate": {
+      "$date": "2024-06-16T13:36:34.545Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e43bc115135d4cb8760"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "phuctam_bot",
+    "password": "$2b$12$88pez3rynFjeeJVwVgRa6.VCE04wu47Zmx/YV/9uuF3sjZ2Vv/qW2",
+    "regDate": {
+      "$date": "2022-04-04T01:49:23.545Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e43bc115135d4cb8761"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dactrong_bot",
+    "password": "$2b$12$dfW906dCh3jPo9V4/opRv.1z7IieWe47HGBjEWi.ya.dx9Yfwj402",
+    "regDate": {
+      "$date": "2022-12-12T14:52:36.423Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e43bc115135d4cb8762"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "sontung_bot",
+    "password": "$2b$12$7EHCSBn2p3BdThstl69EC.ssgR/bzYNKJmDTlLaXdnXj0scB2hpoy",
+    "regDate": {
+      "$date": "2021-06-13T15:53:15.725Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e44bc115135d4cb8763"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "trithang_bot",
+    "password": "$2b$12$ifpdw8xjxrTLUx7K3e106ek83tgNNZflsVvOraQtBRCDh1Ttt55H6",
+    "regDate": {
+      "$date": "2024-01-29T17:20:19.500Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e44bc115135d4cb8764"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "cuongthinh_bot",
+    "password": "$2b$12$F7/cAw.vRu6WU1lhpLzBo.FYY2TB9Y4N61jnwViekF1H3t6b.Uk.C",
+    "regDate": {
+      "$date": "2021-02-26T06:57:14.927Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e44bc115135d4cb8765"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "lamvu_bot",
+    "password": "$2b$12$1s40XGZrb.zp47R.54nBR.yDD81NHZLCI4.XoPAQpztN.uM7Bk/wa",
+    "regDate": {
+      "$date": "2022-04-05T18:02:09.779Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e45bc115135d4cb8766"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "truongan_bot",
+    "password": "$2b$12$n9cBe9pDHmfQmFrG2f8yu.r/poPhWNvnnGCzwlTodOOcfzCPsO3hW",
+    "regDate": {
+      "$date": "2023-05-18T04:10:31.875Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e45bc115135d4cb8767"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "yenbinh_bot",
+    "password": "$2b$12$EmanV/9GMI4HQQrVgXILO.6K/8txBvzN5UPFxDs.88P1FpwbRskMS",
+    "regDate": {
+      "$date": "2022-03-11T07:57:51.218Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e46bc115135d4cb8769"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thanhdat_bot",
+    "password": "$2b$12$xLPFk9YZGTw4fSPgnW7Cken6ZTvHCMtKdvkuzmm5LSEOaLPERRcme",
+    "regDate": {
+      "$date": "2024-08-14T17:05:29.248Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e46bc115135d4cb876a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ankhang_bot",
+    "password": "$2b$12$sS7O1iLqb2wyeqc8MnO6dOM3xMO.098ZyB5slZz5h0ZFDWTiwAdPW",
+    "regDate": {
+      "$date": "2022-09-01T10:03:08.223Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e47bc115135d4cb876b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietkhoa_bot",
+    "password": "$2b$12$dIh32ufT7WB2xOUi9uGgRuumHPeqALHZwxMWclBsWTtUl2NVZW4G6",
+    "regDate": {
+      "$date": "2023-01-01T19:37:31.473Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e47bc115135d4cb876c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "minhhao_bot",
+    "password": "$2b$12$z6q62r3xddvhif8auomnGO9Jz5gyug8BCN1rAy9BsSVf6AF8pgbZa",
+    "regDate": {
+      "$date": "2023-09-24T11:09:28.369Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e47bc115135d4cb876d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "khanhhoang_bot",
+    "password": "$2b$12$8fXO4x8wcJgUQlAWQJ8cmOyunsto4pjVuTes4vpdv.sNxpAGkm6lO",
+    "regDate": {
+      "$date": "2021-12-21T10:41:05.305Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e48bc115135d4cb876e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thehung_bot",
+    "password": "$2b$12$Hr0GI1byFTxcqoSrrTLWIOagsc644PZh1LtDSJ4SD2teTae68fmTi",
+    "regDate": {
+      "$date": "2023-02-02T11:42:23.973Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e48bc115135d4cb876f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "tunglinh_bot",
+    "password": "$2b$12$Z4sBA359aQoX3ESYR5kLAOFTlxrJSHcR.79m6nlRDUc2q8krObDhS",
+    "regDate": {
+      "$date": "2023-12-06T05:06:29.555Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e48bc115135d4cb8770"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "hailong_bot",
+    "password": "$2b$12$kNuDBtv/IctnF8BWZmpcxONDyq3IxL.ij7Ehu4uYSocLsvqdcsSuC",
+    "regDate": {
+      "$date": "2022-10-21T16:03:20.762Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e49bc115135d4cb8771"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "hoangminh_bot",
+    "password": "$2b$12$d0H2wkFe/wKD/pmuGLyx.OCahlPVWRaezst4EIy5KFvQ93dKqsKia",
+    "regDate": {
+      "$date": "2023-01-21T01:37:41.850Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e49bc115135d4cb8772"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "giaphong_bot",
+    "password": "$2b$12$ARhHE24yiIhEQ9KjjHUilOWgNmiKuc4qgZbIX9gr6lSz2.a3p90Eq",
+    "regDate": {
+      "$date": "2021-09-20T02:42:48.175Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4abc115135d4cb8773"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "longquan_bot",
+    "password": "$2b$12$bBu9DPV9w6xNCTDYX08AvOGj6valHw7JAMoT4fl/e1XI9YcS7IN2.",
+    "regDate": {
+      "$date": "2022-03-09T10:12:12.746Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4abc115135d4cb8774"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietson_bot",
+    "password": "$2b$12$tzaFb6D113Qzv76P5sQDa.rDOFAGqZuQuGeR7w7Q0BaGW.ORIL0Me",
+    "regDate": {
+      "$date": "2021-10-16T01:53:08.943Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4abc115135d4cb8775"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thanhtoan_bot",
+    "password": "$2b$12$RHwX3puOLpeWhLm/JryiYOfVUzYQgLaZY75yDxnwFIecG7pz5lzKO",
+    "regDate": {
+      "$date": "2023-01-04T20:54:52.802Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4bbc115135d4cb8776"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ngoctuan_bot",
+    "password": "$2b$12$sruV83IoDru9YVrR6HLThOkVvscDMFBJ5WYCUDhkJ4ckLX1AsCNqe",
+    "regDate": {
+      "$date": "2024-03-04T18:54:21.375Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4bbc115135d4cb8777"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "anhthai_bot",
+    "password": "$2b$12$qO4FSBWEfmS2WFo1.Q/Tru7yMJs1vaHv6XSuOs9FjEHnpwmO3rP96",
+    "regDate": {
+      "$date": "2021-09-03T10:01:35.466Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4bbc115135d4cb8778"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "tuanthanh_bot",
+    "password": "$2b$12$xA6./gR7F470bbLQm/Q7YONhIV4X23wEzOIhjXzqXHnU13pupctGO",
+    "regDate": {
+      "$date": "2023-03-19T04:39:15.158Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4cbc115135d4cb8779"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "khacviet_bot",
+    "password": "$2b$12$1J.tE.qozfR7Hdip.pXequ7rxtBU9zwI9/K8HzHF0jMIlDNuyFkZO",
+    "regDate": {
+      "$date": "2024-01-26T07:26:06.171Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4cbc115135d4cb877a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietan_bot",
+    "password": "$2b$12$RtXzaJRJOaipBJrt6ualH.Cq1lOcsTRbESvnVO6EOR03WHeL9CDAG",
+    "regDate": {
+      "$date": "2021-04-06T22:58:11.401Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4dbc115135d4cb877b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "manhchien_bot",
+    "password": "$2b$12$S.FElXtQ4m6VNE6Qpz4keOlMMbARiBQHLkyKY9lsXY1KMhUj6xiLW",
+    "regDate": {
+      "$date": "2023-07-22T18:06:34.768Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4dbc115135d4cb877c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "kiencuong_bot",
+    "password": "$2b$12$uBXPzHK1CwUGwskM9wGmFOd5Rn7DivdSdAkxGilTvdB54QpiJ/ukK",
+    "regDate": {
+      "$date": "2024-08-22T00:58:07.112Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4dbc115135d4cb877d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "huudinh_bot",
+    "password": "$2b$12$d5YZuVOp75RrHwf0vg29luS8zU8kX/dx297kmKofspK19FN7sfviK",
+    "regDate": {
+      "$date": "2025-02-21T18:29:39.438Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4ebc115135d4cb877e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "hoangkhang_bot",
+    "password": "$2b$12$ww2fVuBHCH03r9iDkkqrMOoDmPhG9qMyVJMXsLKL6YE0/pp.eRCM.",
+    "regDate": {
+      "$date": "2022-04-28T13:18:46.606Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4ebc115135d4cb877f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ngockhoi_bot",
+    "password": "$2b$12$r4JuI0mfXnPoJTS2TAPqIul.253Gy1Mf2kZChNhfU.n.rd3N5oLAW",
+    "regDate": {
+      "$date": "2024-06-26T14:37:34.594Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4ebc115135d4cb8780"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ngochien_bot",
+    "password": "$2b$12$8lwBp8zoD7TpMGFN/T6m7etmbKN0A9SV8J7IcF30NqdTlacaP7K3i",
+    "regDate": {
+      "$date": "2021-11-29T09:49:29.179Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4fbc115135d4cb8781"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dinhhop_bot",
+    "password": "$2b$12$kTz1AR4mUgoJWzw92ACnKebAqUBZ278NwMnsDA23vSfhMD26kpkq6",
+    "regDate": {
+      "$date": "2022-02-08T14:39:12.849Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e4fbc115135d4cb8782"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quochung_bot",
+    "password": "$2b$12$JnU0glilZSCtLOdPJVlJj.aXdQGZO.kjC3dEqF0EdwJuttkJ5c44C",
+    "regDate": {
+      "$date": "2022-01-06T09:56:54.568Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e50bc115135d4cb8783"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dinhloc_bot",
+    "password": "$2b$12$xa1gPWHm7weOR6ut5GvYKuW2pV3cWPeAGDS.29GIc/3E9.AL5If5i",
+    "regDate": {
+      "$date": "2023-11-25T17:54:12.334Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e50bc115135d4cb8784"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "huulong_bot",
+    "password": "$2b$12$XotHhMFr5v8QauRxCOt.1O27oZYzV602BmIgv5WScPMv0uAFqntG2",
+    "regDate": {
+      "$date": "2023-05-01T18:17:22.450Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e50bc115135d4cb8785"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "annam_bot",
+    "password": "$2b$12$NYK9SmWgcQ2tTc9pAwH45.x1szDzzTsquAuRVkAhjlJ6zSgbroFie",
+    "regDate": {
+      "$date": "2021-07-26T15:03:05.050Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e51bc115135d4cb8786"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietphong_bot",
+    "password": "$2b$12$XOpKLGw71h2bhhIHWH.OCeV300Znbt6iW263IA53puNWcjsrRuQrG",
+    "regDate": {
+      "$date": "2023-05-16T03:53:25.205Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e51bc115135d4cb8787"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "minhquan_bot",
+    "password": "$2b$12$f7xg/bwFoFJo1AGMlCnzXONL986uadovk1tHoL.sHEWOftenDiosy",
+    "regDate": {
+      "$date": "2024-12-12T00:29:23.188Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e51bc115135d4cb8788"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "xuanson_bot",
+    "password": "$2b$12$My47hIePXcCkwlEs40oBFeMswHW2vCiqN0qbUB10Fn25v21EY0xpG",
+    "regDate": {
+      "$date": "2021-08-04T17:17:15.012Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e52bc115135d4cb8789"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dungtri_bot",
+    "password": "$2b$12$aSFvaTrRw81JUsJ3fwnd3e/LYmGzJgsDjjhkinKbJMCDdAG4cfyY.",
+    "regDate": {
+      "$date": "2022-01-26T11:25:49.922Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e52bc115135d4cb878a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "anhtung_bot",
+    "password": "$2b$12$LaSWojGL59sKSHzm5RxncuI5kTKzDJ5kp.y/HTnQPjqv1SFWvyQpe",
+    "regDate": {
+      "$date": "2022-05-24T10:18:30.222Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e53bc115135d4cb878b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "hoangthai_bot",
+    "password": "$2b$12$5e8PTfYjFdmxKRaecpp19.Si74fVWZY9lnt3K0TeXbGpVX7Jh0uGm",
+    "regDate": {
+      "$date": "2022-05-10T23:12:15.168Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e53bc115135d4cb878c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ngocthien_bot",
+    "password": "$2b$12$X.wBHc5KUPPj45.qOafB2eHPSdvV/eNiWjDQ4wnzbMvrmYGGv9ayG",
+    "regDate": {
+      "$date": "2021-07-22T12:07:47.090Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e53bc115135d4cb878d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quyvinh_bot",
+    "password": "$2b$12$3FIGVD.CEOjhR/qoVkNqWeFxDKQELlbKWo/UfQmeXNgY6NFcr17MW",
+    "regDate": {
+      "$date": "2024-09-06T09:49:55.531Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e54bc115135d4cb878e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dangan_bot",
+    "password": "$2b$12$1KxeHVJ5yD015FAxzyKusu5FjeSqidKq1g49nd71d.n323VXoRTwq",
+    "regDate": {
+      "$date": "2022-12-15T21:14:44.442Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e54bc115135d4cb878f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "haibinh_bot",
+    "password": "$2b$12$DSlWAoPIMhpFqfVhEDjONed.24rnNw6s3UnLQeowbFXyyYFtc5O1a",
+    "regDate": {
+      "$date": "2023-10-14T03:47:59.860Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e54bc115135d4cb8790"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "manhcuong_bot",
+    "password": "$2b$12$xnVwWdsQ3a.l.jFXeLKiC.U0t./okEf3C12uiQnHsmzGV.G3bRUBW",
+    "regDate": {
+      "$date": "2024-07-11T06:59:50.836Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e55bc115135d4cb8791"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dangdat_bot",
+    "password": "$2b$12$vwH6H7.ixKCC0Gn2mEgIcug7qjkkq6vVEtHLxj1kKZAVaVGkn7XPO",
+    "regDate": {
+      "$date": "2021-12-23T13:45:57.566Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e55bc115135d4cb8792"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "vietduy_bot",
+    "password": "$2b$12$n5uUcqB3.nbZnfGp2bFDJewjAEr3JeSj4bbBOfBzKn2EfMooQ/UpG",
+    "regDate": {
+      "$date": "2023-07-14T22:34:11.733Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e55bc115135d4cb8793"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "chikhiem_bot",
+    "password": "$2b$12$pbbqh41GSGKZg1iUq1hCJ.ZhDGKMC7YtlA7nSkUKSfJpf5Vl64CfC",
+    "regDate": {
+      "$date": "2024-07-20T03:27:33.158Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e56bc115135d4cb8794"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "thanhhai_bot",
+    "password": "$2b$12$cPUk5D8UbiCsGQDFvOkhKuJvWvbag7A7Z5BqGirXf03KVR2CpakCS",
+    "regDate": {
+      "$date": "2021-09-11T17:39:32.167Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e56bc115135d4cb8795"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quochoai_bot",
+    "password": "$2b$12$I0/F1buSsXSro/0vM.Ry6eVjCDZpa80zf1BQOEMasDPcUMdeWOtJK",
+    "regDate": {
+      "$date": "2024-01-29T12:39:31.492Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e57bc115135d4cb8796"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "phihung_bot",
+    "password": "$2b$12$YSOuWDsADE5ClVhTHfkwjetTxkSGiwmP4YxOlEALLirjU8BGDEfbi",
+    "regDate": {
+      "$date": "2025-03-29T16:37:07.049Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e57bc115135d4cb8797"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "tonle_bot",
+    "password": "$2b$12$2lhZmnEIM0qIHUZaU5CKnOyStDPaI2kDD3LXJNIu6GArYUIhr7xHm",
+    "regDate": {
+      "$date": "2025-04-21T14:13:56.619Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e57bc115135d4cb8798"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "duclong_bot",
+    "password": "$2b$12$AzDyG49TpHbhPWoZ8vPvbe8SlnyiFPUVPUL38xpmrd4sAOBNcJHPC",
+    "regDate": {
+      "$date": "2024-06-01T14:04:08.109Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e58bc115135d4cb8799"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "giaminh_bot",
+    "password": "$2b$12$LZa3HWRFkEnlxmZSTmpPPemB/4iPTZjScIiMV3.pBqZf2fgDOh01K",
+    "regDate": {
+      "$date": "2022-03-24T15:29:13.129Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e58bc115135d4cb879a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "tuongnguyen_bot",
+    "password": "$2b$12$tqJ6uvdsRHDAx8zVIL4Lg.EP/9rKvRNevVsgUWoTbUvYTVDeiyeGS",
+    "regDate": {
+      "$date": "2022-11-22T23:16:09.904Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e58bc115135d4cb879b"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quocphuong_bot",
+    "password": "$2b$12$DCvzEjSzPOUXXiS2iS/vfuF46rh9D/d6/eI6BrTQMk7XNDpv89c8y",
+    "regDate": {
+      "$date": "2023-11-16T09:55:49.708Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e59bc115135d4cb879c"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "congson_bot",
+    "password": "$2b$12$Ff0VkocHrOOhAE1EnwfBwuLbI2s1r8iOsGPUKDJLpQU9cMYJesvMm",
+    "regDate": {
+      "$date": "2021-09-25T08:41:52.714Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e59bc115135d4cb879d"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "caotien_bot",
+    "password": "$2b$12$hzJjjSUkGAqH.jIwtKd8QO55XN.i5FzLswMm.KnEuCfk3HHP4sTb.",
+    "regDate": {
+      "$date": "2024-06-29T05:08:42.239Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e5abc115135d4cb879e"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "ductuan_bot",
+    "password": "$2b$12$YeP5KvPDlz9Cv57DnQugJ.7JahxWcVW5mMhS2jsKJCWjSaFAZ.tDG",
+    "regDate": {
+      "$date": "2023-10-25T03:29:48.750Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e5abc115135d4cb879f"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "duythach_bot",
+    "password": "$2b$12$Hf6fVbqNondNppdzPcUsyOHP18jSKqW1/BPgsRB8NtF0Iw8roGQka",
+    "regDate": {
+      "$date": "2022-04-18T16:26:30.372Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e5abc115135d4cb87a0"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "truongthanh_bot",
+    "password": "$2b$12$Q16KgNTI.E3kMHfjoWc6n.bYcVzCehZK0q4G.YNLcn.RwXOPEHh8.",
+    "regDate": {
+      "$date": "2024-09-24T19:48:00.323Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681e8e5bbc115135d4cb87a1"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "huythong_bot",
+    "password": "$2b$12$5Q1CFmquf7Indma39h4IjudtEHGl0yvT8nXso/WJ3S4PPqCgGoXaa",
+    "regDate": {
+      "$date": "2024-06-08T14:33:13.660Z"
+    }
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681ed5ca2d52453c787eaf14"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "minhminh",
+    "password": "$2b$12$8.ZvkQgOQQblvlSh2RFTqeRyyLmQSiE17Q9qAvHjG7rV0dxFr0RH.",
+    "regDate": {
+      "$date": "2025-05-10T04:27:54.773Z"
+    },
+    "token": ""
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681edc35264037351ce6fa9a"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "nsklf",
+    "password": "$2b$12$Xu.wziNbRCqTTcdxeSAT0u8x9uZ.pfgpWLMiGl2b9zJhm8f6nB.7y",
+    "regDate": {
+      "$date": "2025-05-10T04:55:17.778Z"
+    },
+    "token": ""
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f54c04314800dd054cf78"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "dfhgkdf",
+    "password": "$2b$12$Rz47rxwTP1mdR.TW8Gs7se5X9Y37xT6nhk23ACVzZIfgWOPjYFl7a",
+    "regDate": {
+      "$date": "2025-05-10T13:29:36.160Z"
+    },
+    "token": "$2b$12$9aCre/JYIOR.6RVpYMI8d.zfJPUU5zMqFcI07lxHwfTO8MPvPQiMe"
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820e4e6ef27f2351cda7f10"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "minhdepzai22k",
+    "password": "$2b$12$QOLLIguPyO7esw0nAmlxOO0t3DmevUcmE.50kLw/Dwvq0W9NVa7na",
+    "regDate": {
+      "$date": "2025-05-11T17:56:54.365Z"
+    },
+    "token": "$2b$12$TR6u2..4SeoPO0qeQXW90.sVwpAJx6jYb5fc0bSPXXNTiG1375j.q"
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821e7dd9e88e91268959a06"
+  },
+  "local": {
+    "ban_pass": 0,
+    "ban_login": false,
+    "username": "quynh123",
+    "password": "$2b$12$jCNWo1bi3CwmKDxPlXClruaD/ZX0SYE6acbQIq7yxOYsp9.lgFZG.",
+    "regDate": {
+      "$date": "2025-05-12T12:21:49.481Z"
+    },
+    "token": "$2b$12$ed4F/EiOcr7WC/LWB4PN6usDNnM8/yqy2cDjrKCAkk5Y0.qKR.8hu"
+  },
+  "fail": 0,
+  "lock": false,
+  "__v": 0
+}]
