@@ -55,33 +55,31 @@ window.boot = function () {
     }
 
     function setLoadingDisplay () {
-    var splash = document.getElementById('splash');
-    var progressBar = splash.querySelector('.progress-bar span');
-    cc.loader.onProgress = function (completedCount, totalCount, item) {
-        var percent = 100 * completedCount / totalCount;
-        if (progressBar) {
-            progressBar.style.width = percent.toFixed(2) + '%';
-        }
-    };
-    splash.style.display = 'flex'; // vì dùng flex để căn giữa
-    progressBar.style.width = '0%';
+        // Loading splash scene
+        var splash = document.getElementById('splash');
+        var progressBar = splash.querySelector('.progress-bar span');
+        cc.loader.onProgress = function (completedCount, totalCount, item) {
+            var percent = 100 * completedCount / totalCount;
+            if (progressBar) {
+                progressBar.style.width = percent.toFixed(2) + '%';
+            }
+        };
+        splash.style.display = 'block';
+        progressBar.style.width = '0%';
 
-    cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
-        splash.style.display = 'none';
-    });
-}
+        cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
+            splash.style.display = 'none';
+        });
+    }
 
     var onStart = function () {
         cc.loader.downloader._subpackages = settings.subpackages;
 
         cc.view.enableRetina(true);
         cc.view.resizeWithBrowserSize(true);
-        cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
-        var splash = document.getElementById('custom-splash');
-        if (splash) splash.style.display = 'none';
-        });
+
         if (cc.sys.isBrowser) {
-          
+            setLoadingDisplay();
         }
 
         if (cc.sys.isMobile) {
@@ -132,7 +130,7 @@ window.boot = function () {
 
         }
 
-        var launchScene = "db://assets/Scene/MainGame.fire";
+        var launchScene = settings.launchScene;
 
         // load scene
         loadScene(launchScene);
