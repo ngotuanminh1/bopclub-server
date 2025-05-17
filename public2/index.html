@@ -87,7 +87,9 @@
       var debug = window._CCSettings.debug;
       var splash = document.getElementById('splash');
       splash.style.display = 'flex'; // Sửa lại từ 'block' để đúng với flexbox
-
+      cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
+    splash.style.display = 'none';
+});
       function loadScript(moduleName, cb) {
         function scriptLoaded() {
           document.body.removeChild(domScript);
