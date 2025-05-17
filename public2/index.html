@@ -42,75 +42,49 @@
 </head>
 <body>
   <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
-
-  <!-- Splash tùy chỉnh -->
-  <div id="splash" style="
-      display: none;
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background-color: #000;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      z-index: 9999;
-  ">
-    <img src="bopicon.png" alt="Logo" style="width: 220px; height: auto; margin-bottom: 30px;" />
-    <div class="progress-bar stripes" style="
-        width: 80%;
-        max-width: 400px;
-        height: 20px;
-        background-color: #333;
-        border-radius: 10px;
-        overflow: hidden;
-    ">
-      <span style="
-          display: block;
-          height: 100%;
-          width: 0%;
-          background-color: #cc33ff;
-          transition: width 0.2s;
-      "></span>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
     </div>
   </div>
 
-  <!-- Script khởi tạo -->
-  <script src="src/settings.8ccc4.js" charset="utf-8"></script>
-  <script src="main.a6845.js" charset="utf-8"></script>
+<script src="src/settings.8ccc4.js" charset="utf-8"></script>
 
-  <script type="text/javascript">
-    (function () {
-      if (typeof VConsole !== 'undefined') {
+<script src="main.a6845.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+(function () {
+    // open web debugger console
+    if (typeof VConsole !== 'undefined') {
         window.vConsole = new VConsole();
-      }
+    }
 
-      var debug = window._CCSettings.debug;
-      var splash = document.getElementById('splash');
-      splash.style.display = 'flex'; // Sửa lại từ 'block' để đúng với flexbox
-      cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
-    splash.style.display = 'none';
-});
-      function loadScript(moduleName, cb) {
-        function scriptLoaded() {
+    var debug = window._CCSettings.debug;
+    var splash = document.getElementById('splash');
+    splash.style.display = 'block';
+
+    function loadScript (moduleName, cb) {
+      function scriptLoaded () {
           document.body.removeChild(domScript);
           domScript.removeEventListener('load', scriptLoaded, false);
           cb && cb();
-        }
-        var domScript = document.createElement('script');
-        domScript.async = true;
-        domScript.src = moduleName;
-        domScript.addEventListener('load', scriptLoaded, false);
-        document.body.appendChild(domScript);
+      };
+      var domScript = document.createElement('script');
+      domScript.async = true;
+      domScript.src = moduleName;
+      domScript.addEventListener('load', scriptLoaded, false);
+      document.body.appendChild(domScript);
+    }
+
+    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.7ce0d.js', function () {
+      if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
+        loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
       }
-
-      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.7ce0d.js', function () {
-        if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
-          loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
-        } else {
-          window.boot();
-        }
-      });
-    })();
-  </script>
+      else {
+        window.boot();
+      }
+    });
+})();
+</script>
 </body>
-
+</html>
