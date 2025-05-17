@@ -42,11 +42,11 @@
 </head>
 <body>
   <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
-  <div id="splash">
+  <!--<div id="splash">
     <div class="progress-bar stripes">
       <span style="width: 0%"></span>
     </div>
-  </div>
+  </div>-->
 
 <script src="src/settings.8ccc4.js" charset="utf-8"></script>
 
@@ -59,8 +59,8 @@
         window.vConsole = new VConsole();
     }
 
-    var debug = window._CCSettings.debug;
-    var splash = document.getElementById('splash');
+    //var debug = window._CCSettings.debug;
+    //var splash = document.getElementById('splash');
     splash.style.display = 'block';
 
     function loadScript (moduleName, cb) {
