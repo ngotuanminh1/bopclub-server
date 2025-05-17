@@ -57,7 +57,6 @@ let singleBotBet = function (bot, io) {
 	TXCuocOne.create({ uid: bot.id, phien: io.TaiXiu_phien, select, bet: cuoc });
 	TXCuoc.create({ uid: bot.id, bot: true, name: bot.name, phien: io.TaiXiu_phien, bet: cuoc, select, time: new Date() });
 
-	console.log(`[BOT] ${bot.name} cược ${cuoc.toLocaleString()} vào ${select ? 'Tài' : 'Xỉu'}`);
 };
 
 /**

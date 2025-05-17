@@ -28,8 +28,6 @@ module.exports = function (redT) {
                 }
             };
 
-            console.log(`[BOT] Gửi tin nhắn: ${user}: ${value}`);
-
             redT.clients.forEach(function (ws) {
                 if (ws.readyState === 1 && ws.auth === true) {
                     ws.send(JSON.stringify(message));

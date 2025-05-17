@@ -89,7 +89,6 @@ async function connectDatabase() {
                         MegaJP_user.create({ 'uid': Uid })
                     ]);
 
-                    console.log(`Inserted new user: ${name}`);
                 }
             } catch (err) {
                 console.error('Error inserting user info:', err);
@@ -118,7 +117,7 @@ async function connectDatabase() {
                         await insertUserInfo(newUser._id, name, newUser.local.regDate);
                     }
                 }
-                console.log('Bot user creation completed.');
+
             } catch (err) {
                 console.error('Error creating bot users:', err);
             }
