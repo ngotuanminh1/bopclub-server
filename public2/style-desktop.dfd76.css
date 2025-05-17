@@ -72,9 +72,9 @@ p.footer {
     background-color: #1a1a1a;
     position: absolute;
     left: 50%;
-    top: 90%;
+    top: 9%;
     height: 5px;
-    width: 150px;
+    width: 1px;
     margin: 0 -150px;
     border-radius: 5px;
     box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;           
