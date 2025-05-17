@@ -54,7 +54,10 @@ window.boot = function () {
         }
     }
 
-   function setLoadingDisplay () { return; }
+    function setLoadingDisplay () {
+  // Disable default splash
+  return;
+}
 
     var onStart = function () {
         cc.loader.downloader._subpackages = settings.subpackages;
