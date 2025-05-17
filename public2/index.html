@@ -42,6 +42,11 @@
 </head>
 <body>
   <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <div id="splash" style="display: none;">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
+    </div>
+  </div>
 
 <script src="src/settings.8ccc4.js" charset="utf-8"></script>
 
@@ -55,8 +60,8 @@
     }
 
     var debug = window._CCSettings.debug;
-    // var splash = document.getElementById('splash'); //made with cocos
-    // splash.style.display = 'block';
+    var splash = document.getElementById('splash');
+    splash.style.display = 'block';
 
     function loadScript (moduleName, cb) {
       function scriptLoaded () {
