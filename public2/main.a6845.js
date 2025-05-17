@@ -63,7 +63,10 @@ window.boot = function () {
 
         cc.view.enableRetina(true);
         cc.view.resizeWithBrowserSize(true);
-
+        cc.director.once(cc.Director.EVENT_AFTER_SCENE_LAUNCH, function () {
+        var splash = document.getElementById('custom-splash');
+        if (splash) splash.style.display = 'none';
+        });
         if (cc.sys.isBrowser) {
           
         }
